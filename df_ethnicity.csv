@@ -1,0 +1,2393 @@
+StudentID,Ethnicity_ID,Ethnicity_Group
+1001,0,Caucasian
+1002,0,Caucasian
+1003,2,Asian
+1004,0,Caucasian
+1005,0,Caucasian
+1006,0,Caucasian
+1007,1,African American
+1008,1,African American
+1009,0,Caucasian
+1010,0,Caucasian
+1011,0,Caucasian
+1012,0,Caucasian
+1013,1,African American
+1014,1,African American
+1015,0,Caucasian
+1016,0,Caucasian
+1017,3,Other
+1018,0,Caucasian
+1019,1,African American
+1020,0,Caucasian
+1021,0,Caucasian
+1022,0,Caucasian
+1023,1,African American
+1024,3,Other
+1025,0,Caucasian
+1026,0,Caucasian
+1027,0,Caucasian
+1028,0,Caucasian
+1029,0,Caucasian
+1030,0,Caucasian
+1031,2,Asian
+1032,0,Caucasian
+1033,0,Caucasian
+1034,3,Other
+1035,0,Caucasian
+1036,3,Other
+1037,0,Caucasian
+1038,2,Asian
+1039,1,African American
+1040,2,Asian
+1041,3,Other
+1042,0,Caucasian
+1043,3,Other
+1044,0,Caucasian
+1045,0,Caucasian
+1046,0,Caucasian
+1047,1,African American
+1048,0,Caucasian
+1049,1,African American
+1050,1,African American
+1051,2,Asian
+1052,2,Asian
+1053,0,Caucasian
+1054,0,Caucasian
+1055,0,Caucasian
+1056,0,Caucasian
+1057,0,Caucasian
+1058,0,Caucasian
+1059,0,Caucasian
+1060,3,Other
+1061,1,African American
+1062,0,Caucasian
+1063,1,African American
+1064,0,Caucasian
+1065,0,Caucasian
+1066,1,African American
+1067,0,Caucasian
+1068,0,Caucasian
+1069,3,Other
+1070,2,Asian
+1071,1,African American
+1072,1,African American
+1073,1,African American
+1074,0,Caucasian
+1075,0,Caucasian
+1076,0,Caucasian
+1077,0,Caucasian
+1078,1,African American
+1079,0,Caucasian
+1080,3,Other
+1081,3,Other
+1082,2,Asian
+1083,1,African American
+1084,2,Asian
+1085,0,Caucasian
+1086,2,Asian
+1087,0,Caucasian
+1088,2,Asian
+1089,0,Caucasian
+1090,2,Asian
+1091,3,Other
+1092,0,Caucasian
+1093,0,Caucasian
+1094,3,Other
+1095,0,Caucasian
+1096,2,Asian
+1097,1,African American
+1098,0,Caucasian
+1099,0,Caucasian
+1100,0,Caucasian
+1101,2,Asian
+1102,0,Caucasian
+1103,1,African American
+1104,0,Caucasian
+1105,1,African American
+1106,2,Asian
+1107,3,Other
+1108,0,Caucasian
+1109,2,Asian
+1110,2,Asian
+1111,1,African American
+1112,3,Other
+1113,0,Caucasian
+1114,0,Caucasian
+1115,2,Asian
+1116,0,Caucasian
+1117,2,Asian
+1118,2,Asian
+1119,0,Caucasian
+1120,2,Asian
+1121,0,Caucasian
+1122,1,African American
+1123,1,African American
+1124,3,Other
+1125,0,Caucasian
+1126,0,Caucasian
+1127,1,African American
+1128,2,Asian
+1129,1,African American
+1130,0,Caucasian
+1131,0,Caucasian
+1132,0,Caucasian
+1133,2,Asian
+1134,0,Caucasian
+1135,0,Caucasian
+1136,3,Other
+1137,0,Caucasian
+1138,3,Other
+1139,1,African American
+1140,2,Asian
+1141,0,Caucasian
+1142,0,Caucasian
+1143,2,Asian
+1144,2,Asian
+1145,2,Asian
+1146,0,Caucasian
+1147,2,Asian
+1148,2,Asian
+1149,1,African American
+1150,2,Asian
+1151,2,Asian
+1152,1,African American
+1153,0,Caucasian
+1154,0,Caucasian
+1155,0,Caucasian
+1156,0,Caucasian
+1157,0,Caucasian
+1158,0,Caucasian
+1159,0,Caucasian
+1160,0,Caucasian
+1161,2,Asian
+1162,3,Other
+1163,0,Caucasian
+1164,3,Other
+1165,1,African American
+1166,0,Caucasian
+1167,0,Caucasian
+1168,1,African American
+1169,2,Asian
+1170,2,Asian
+1171,0,Caucasian
+1172,0,Caucasian
+1173,0,Caucasian
+1174,0,Caucasian
+1175,0,Caucasian
+1176,0,Caucasian
+1177,2,Asian
+1178,3,Other
+1179,0,Caucasian
+1180,3,Other
+1181,0,Caucasian
+1182,0,Caucasian
+1183,0,Caucasian
+1184,1,African American
+1185,3,Other
+1186,1,African American
+1187,0,Caucasian
+1188,1,African American
+1189,0,Caucasian
+1190,2,Asian
+1191,1,African American
+1192,0,Caucasian
+1193,1,African American
+1194,1,African American
+1195,0,Caucasian
+1196,1,African American
+1197,0,Caucasian
+1198,2,Asian
+1199,2,Asian
+1200,2,Asian
+1201,1,African American
+1202,1,African American
+1203,0,Caucasian
+1204,2,Asian
+1205,0,Caucasian
+1206,0,Caucasian
+1207,0,Caucasian
+1208,0,Caucasian
+1209,1,African American
+1210,0,Caucasian
+1211,2,Asian
+1212,0,Caucasian
+1213,0,Caucasian
+1214,1,African American
+1215,0,Caucasian
+1216,0,Caucasian
+1217,2,Asian
+1218,0,Caucasian
+1219,2,Asian
+1220,0,Caucasian
+1221,0,Caucasian
+1222,2,Asian
+1223,0,Caucasian
+1224,0,Caucasian
+1225,0,Caucasian
+1226,0,Caucasian
+1227,2,Asian
+1228,0,Caucasian
+1229,2,Asian
+1230,2,Asian
+1231,0,Caucasian
+1232,3,Other
+1233,0,Caucasian
+1234,3,Other
+1235,0,Caucasian
+1236,1,African American
+1237,0,Caucasian
+1238,0,Caucasian
+1239,1,African American
+1240,2,Asian
+1241,0,Caucasian
+1242,0,Caucasian
+1243,2,Asian
+1244,1,African American
+1245,3,Other
+1246,2,Asian
+1247,3,Other
+1248,2,Asian
+1249,0,Caucasian
+1250,0,Caucasian
+1251,2,Asian
+1252,1,African American
+1253,0,Caucasian
+1254,0,Caucasian
+1255,3,Other
+1256,1,African American
+1257,0,Caucasian
+1258,0,Caucasian
+1259,0,Caucasian
+1260,0,Caucasian
+1261,0,Caucasian
+1262,0,Caucasian
+1263,2,Asian
+1264,0,Caucasian
+1265,2,Asian
+1266,2,Asian
+1267,0,Caucasian
+1268,1,African American
+1269,0,Caucasian
+1270,2,Asian
+1271,0,Caucasian
+1272,1,African American
+1273,1,African American
+1274,0,Caucasian
+1275,0,Caucasian
+1276,1,African American
+1277,2,Asian
+1278,0,Caucasian
+1279,1,African American
+1280,0,Caucasian
+1281,2,Asian
+1282,0,Caucasian
+1283,2,Asian
+1284,0,Caucasian
+1285,0,Caucasian
+1286,0,Caucasian
+1287,0,Caucasian
+1288,1,African American
+1289,0,Caucasian
+1290,2,Asian
+1291,0,Caucasian
+1292,0,Caucasian
+1293,0,Caucasian
+1294,0,Caucasian
+1295,0,Caucasian
+1296,0,Caucasian
+1297,0,Caucasian
+1298,0,Caucasian
+1299,1,African American
+1300,1,African American
+1301,0,Caucasian
+1302,0,Caucasian
+1303,3,Other
+1304,1,African American
+1305,1,African American
+1306,0,Caucasian
+1307,2,Asian
+1308,2,Asian
+1309,1,African American
+1310,3,Other
+1311,0,Caucasian
+1312,0,Caucasian
+1313,2,Asian
+1314,2,Asian
+1315,0,Caucasian
+1316,0,Caucasian
+1317,0,Caucasian
+1318,0,Caucasian
+1319,2,Asian
+1320,1,African American
+1321,0,Caucasian
+1322,0,Caucasian
+1323,0,Caucasian
+1324,0,Caucasian
+1325,1,African American
+1326,3,Other
+1327,2,Asian
+1328,0,Caucasian
+1329,2,Asian
+1330,2,Asian
+1331,2,Asian
+1332,0,Caucasian
+1333,0,Caucasian
+1334,0,Caucasian
+1335,0,Caucasian
+1336,0,Caucasian
+1337,0,Caucasian
+1338,0,Caucasian
+1339,2,Asian
+1340,0,Caucasian
+1341,0,Caucasian
+1342,3,Other
+1343,3,Other
+1344,2,Asian
+1345,3,Other
+1346,1,African American
+1347,3,Other
+1348,0,Caucasian
+1349,0,Caucasian
+1350,0,Caucasian
+1351,0,Caucasian
+1352,0,Caucasian
+1353,1,African American
+1354,2,Asian
+1355,1,African American
+1356,0,Caucasian
+1357,2,Asian
+1358,1,African American
+1359,0,Caucasian
+1360,1,African American
+1361,0,Caucasian
+1362,0,Caucasian
+1363,3,Other
+1364,0,Caucasian
+1365,0,Caucasian
+1366,2,Asian
+1367,2,Asian
+1368,0,Caucasian
+1369,0,Caucasian
+1370,0,Caucasian
+1371,1,African American
+1372,0,Caucasian
+1373,0,Caucasian
+1374,3,Other
+1375,1,African American
+1376,0,Caucasian
+1377,1,African American
+1378,1,African American
+1379,0,Caucasian
+1380,0,Caucasian
+1381,2,Asian
+1382,0,Caucasian
+1383,1,African American
+1384,0,Caucasian
+1385,0,Caucasian
+1386,0,Caucasian
+1387,0,Caucasian
+1388,0,Caucasian
+1389,0,Caucasian
+1390,2,Asian
+1391,3,Other
+1392,2,Asian
+1393,2,Asian
+1394,0,Caucasian
+1395,3,Other
+1396,0,Caucasian
+1397,3,Other
+1398,3,Other
+1399,2,Asian
+1400,3,Other
+1401,1,African American
+1402,0,Caucasian
+1403,0,Caucasian
+1404,1,African American
+1405,0,Caucasian
+1406,1,African American
+1407,3,Other
+1408,0,Caucasian
+1409,2,Asian
+1410,3,Other
+1411,3,Other
+1412,3,Other
+1413,1,African American
+1414,3,Other
+1415,2,Asian
+1416,0,Caucasian
+1417,0,Caucasian
+1418,2,Asian
+1419,0,Caucasian
+1420,1,African American
+1421,1,African American
+1422,0,Caucasian
+1423,1,African American
+1424,2,Asian
+1425,0,Caucasian
+1426,0,Caucasian
+1427,0,Caucasian
+1428,0,Caucasian
+1429,3,Other
+1430,0,Caucasian
+1431,1,African American
+1432,0,Caucasian
+1433,0,Caucasian
+1434,2,Asian
+1435,2,Asian
+1436,0,Caucasian
+1437,0,Caucasian
+1438,0,Caucasian
+1439,0,Caucasian
+1440,1,African American
+1441,0,Caucasian
+1442,0,Caucasian
+1443,0,Caucasian
+1444,3,Other
+1445,3,Other
+1446,0,Caucasian
+1447,2,Asian
+1448,0,Caucasian
+1449,0,Caucasian
+1450,2,Asian
+1451,3,Other
+1452,3,Other
+1453,1,African American
+1454,0,Caucasian
+1455,2,Asian
+1456,0,Caucasian
+1457,1,African American
+1458,0,Caucasian
+1459,1,African American
+1460,0,Caucasian
+1461,0,Caucasian
+1462,3,Other
+1463,0,Caucasian
+1464,1,African American
+1465,0,Caucasian
+1466,0,Caucasian
+1467,0,Caucasian
+1468,0,Caucasian
+1469,2,Asian
+1470,0,Caucasian
+1471,3,Other
+1472,1,African American
+1473,0,Caucasian
+1474,1,African American
+1475,1,African American
+1476,2,Asian
+1477,0,Caucasian
+1478,0,Caucasian
+1479,2,Asian
+1480,3,Other
+1481,2,Asian
+1482,0,Caucasian
+1483,2,Asian
+1484,0,Caucasian
+1485,0,Caucasian
+1486,0,Caucasian
+1487,1,African American
+1488,0,Caucasian
+1489,0,Caucasian
+1490,2,Asian
+1491,0,Caucasian
+1492,0,Caucasian
+1493,0,Caucasian
+1494,3,Other
+1495,1,African American
+1496,0,Caucasian
+1497,2,Asian
+1498,2,Asian
+1499,0,Caucasian
+1500,1,African American
+1501,2,Asian
+1502,1,African American
+1503,0,Caucasian
+1504,2,Asian
+1505,1,African American
+1506,0,Caucasian
+1507,0,Caucasian
+1508,0,Caucasian
+1509,0,Caucasian
+1510,2,Asian
+1511,0,Caucasian
+1512,0,Caucasian
+1513,1,African American
+1514,0,Caucasian
+1515,3,Other
+1516,0,Caucasian
+1517,0,Caucasian
+1518,0,Caucasian
+1519,0,Caucasian
+1520,0,Caucasian
+1521,2,Asian
+1522,3,Other
+1523,0,Caucasian
+1524,1,African American
+1525,2,Asian
+1526,2,Asian
+1527,0,Caucasian
+1528,0,Caucasian
+1529,0,Caucasian
+1530,2,Asian
+1531,2,Asian
+1532,0,Caucasian
+1533,0,Caucasian
+1534,3,Other
+1535,2,Asian
+1536,3,Other
+1537,2,Asian
+1538,0,Caucasian
+1539,1,African American
+1540,1,African American
+1541,0,Caucasian
+1542,1,African American
+1543,2,Asian
+1544,0,Caucasian
+1545,2,Asian
+1546,1,African American
+1547,3,Other
+1548,0,Caucasian
+1549,0,Caucasian
+1550,1,African American
+1551,0,Caucasian
+1552,2,Asian
+1553,2,Asian
+1554,0,Caucasian
+1555,1,African American
+1556,1,African American
+1557,0,Caucasian
+1558,3,Other
+1559,2,Asian
+1560,1,African American
+1561,2,Asian
+1562,0,Caucasian
+1563,3,Other
+1564,1,African American
+1565,2,Asian
+1566,2,Asian
+1567,0,Caucasian
+1568,2,Asian
+1569,0,Caucasian
+1570,0,Caucasian
+1571,0,Caucasian
+1572,3,Other
+1573,2,Asian
+1574,2,Asian
+1575,2,Asian
+1576,1,African American
+1577,3,Other
+1578,0,Caucasian
+1579,0,Caucasian
+1580,0,Caucasian
+1581,2,Asian
+1582,2,Asian
+1583,0,Caucasian
+1584,0,Caucasian
+1585,2,Asian
+1586,0,Caucasian
+1587,2,Asian
+1588,3,Other
+1589,0,Caucasian
+1590,0,Caucasian
+1591,2,Asian
+1592,2,Asian
+1593,1,African American
+1594,3,Other
+1595,0,Caucasian
+1596,1,African American
+1597,2,Asian
+1598,2,Asian
+1599,0,Caucasian
+1600,2,Asian
+1601,1,African American
+1602,0,Caucasian
+1603,0,Caucasian
+1604,2,Asian
+1605,0,Caucasian
+1606,0,Caucasian
+1607,0,Caucasian
+1608,2,Asian
+1609,1,African American
+1610,2,Asian
+1611,0,Caucasian
+1612,1,African American
+1613,1,African American
+1614,2,Asian
+1615,3,Other
+1616,0,Caucasian
+1617,1,African American
+1618,0,Caucasian
+1619,1,African American
+1620,0,Caucasian
+1621,0,Caucasian
+1622,0,Caucasian
+1623,1,African American
+1624,0,Caucasian
+1625,2,Asian
+1626,0,Caucasian
+1627,0,Caucasian
+1628,2,Asian
+1629,0,Caucasian
+1630,0,Caucasian
+1631,1,African American
+1632,0,Caucasian
+1633,0,Caucasian
+1634,0,Caucasian
+1635,3,Other
+1636,1,African American
+1637,1,African American
+1638,1,African American
+1639,0,Caucasian
+1640,0,Caucasian
+1641,2,Asian
+1642,0,Caucasian
+1643,0,Caucasian
+1644,0,Caucasian
+1645,0,Caucasian
+1646,3,Other
+1647,0,Caucasian
+1648,1,African American
+1649,0,Caucasian
+1650,3,Other
+1651,0,Caucasian
+1652,0,Caucasian
+1653,2,Asian
+1654,2,Asian
+1655,0,Caucasian
+1656,0,Caucasian
+1657,0,Caucasian
+1658,0,Caucasian
+1659,0,Caucasian
+1660,0,Caucasian
+1661,0,Caucasian
+1662,0,Caucasian
+1663,1,African American
+1664,3,Other
+1665,1,African American
+1666,0,Caucasian
+1667,0,Caucasian
+1668,3,Other
+1669,0,Caucasian
+1670,0,Caucasian
+1671,1,African American
+1672,1,African American
+1673,1,African American
+1674,0,Caucasian
+1675,0,Caucasian
+1676,3,Other
+1677,0,Caucasian
+1678,1,African American
+1679,2,Asian
+1680,1,African American
+1681,0,Caucasian
+1682,0,Caucasian
+1683,1,African American
+1684,2,Asian
+1685,3,Other
+1686,0,Caucasian
+1687,0,Caucasian
+1688,3,Other
+1689,2,Asian
+1690,2,Asian
+1691,0,Caucasian
+1692,1,African American
+1693,2,Asian
+1694,1,African American
+1695,0,Caucasian
+1696,0,Caucasian
+1697,1,African American
+1698,0,Caucasian
+1699,0,Caucasian
+1700,3,Other
+1701,0,Caucasian
+1702,2,Asian
+1703,0,Caucasian
+1704,1,African American
+1705,3,Other
+1706,0,Caucasian
+1707,0,Caucasian
+1708,0,Caucasian
+1709,0,Caucasian
+1710,2,Asian
+1711,3,Other
+1712,0,Caucasian
+1713,0,Caucasian
+1714,0,Caucasian
+1715,2,Asian
+1716,0,Caucasian
+1717,1,African American
+1718,1,African American
+1719,1,African American
+1720,0,Caucasian
+1721,2,Asian
+1722,0,Caucasian
+1723,0,Caucasian
+1724,2,Asian
+1725,2,Asian
+1726,0,Caucasian
+1727,0,Caucasian
+1728,0,Caucasian
+1729,0,Caucasian
+1730,0,Caucasian
+1731,0,Caucasian
+1732,0,Caucasian
+1733,2,Asian
+1734,1,African American
+1735,1,African American
+1736,0,Caucasian
+1737,3,Other
+1738,2,Asian
+1739,2,Asian
+1740,2,Asian
+1741,3,Other
+1742,1,African American
+1743,0,Caucasian
+1744,1,African American
+1745,2,Asian
+1746,2,Asian
+1747,1,African American
+1748,0,Caucasian
+1749,0,Caucasian
+1750,3,Other
+1751,1,African American
+1752,1,African American
+1753,0,Caucasian
+1754,0,Caucasian
+1755,2,Asian
+1756,1,African American
+1757,2,Asian
+1758,0,Caucasian
+1759,1,African American
+1760,0,Caucasian
+1761,2,Asian
+1762,0,Caucasian
+1763,0,Caucasian
+1764,1,African American
+1765,3,Other
+1766,0,Caucasian
+1767,2,Asian
+1768,0,Caucasian
+1769,0,Caucasian
+1770,0,Caucasian
+1771,0,Caucasian
+1772,1,African American
+1773,0,Caucasian
+1774,0,Caucasian
+1775,3,Other
+1776,0,Caucasian
+1777,2,Asian
+1778,0,Caucasian
+1779,1,African American
+1780,0,Caucasian
+1781,0,Caucasian
+1782,0,Caucasian
+1783,0,Caucasian
+1784,0,Caucasian
+1785,1,African American
+1786,2,Asian
+1787,2,Asian
+1788,1,African American
+1789,0,Caucasian
+1790,0,Caucasian
+1791,0,Caucasian
+1792,0,Caucasian
+1793,1,African American
+1794,1,African American
+1795,0,Caucasian
+1796,0,Caucasian
+1797,2,Asian
+1798,2,Asian
+1799,0,Caucasian
+1800,3,Other
+1801,3,Other
+1802,0,Caucasian
+1803,0,Caucasian
+1804,1,African American
+1805,3,Other
+1806,2,Asian
+1807,0,Caucasian
+1808,0,Caucasian
+1809,1,African American
+1810,1,African American
+1811,0,Caucasian
+1812,2,Asian
+1813,1,African American
+1814,2,Asian
+1815,2,Asian
+1816,2,Asian
+1817,0,Caucasian
+1818,1,African American
+1819,0,Caucasian
+1820,1,African American
+1821,0,Caucasian
+1822,1,African American
+1823,0,Caucasian
+1824,0,Caucasian
+1825,0,Caucasian
+1826,0,Caucasian
+1827,2,Asian
+1828,2,Asian
+1829,1,African American
+1830,0,Caucasian
+1831,0,Caucasian
+1832,0,Caucasian
+1833,0,Caucasian
+1834,2,Asian
+1835,0,Caucasian
+1836,0,Caucasian
+1837,0,Caucasian
+1838,0,Caucasian
+1839,1,African American
+1840,1,African American
+1841,0,Caucasian
+1842,0,Caucasian
+1843,0,Caucasian
+1844,0,Caucasian
+1845,0,Caucasian
+1846,3,Other
+1847,1,African American
+1848,1,African American
+1849,0,Caucasian
+1850,0,Caucasian
+1851,1,African American
+1852,1,African American
+1853,2,Asian
+1854,0,Caucasian
+1855,1,African American
+1856,0,Caucasian
+1857,2,Asian
+1858,1,African American
+1859,1,African American
+1860,0,Caucasian
+1861,1,African American
+1862,0,Caucasian
+1863,0,Caucasian
+1864,0,Caucasian
+1865,1,African American
+1866,0,Caucasian
+1867,0,Caucasian
+1868,2,Asian
+1869,0,Caucasian
+1870,1,African American
+1871,0,Caucasian
+1872,0,Caucasian
+1873,2,Asian
+1874,0,Caucasian
+1875,0,Caucasian
+1876,1,African American
+1877,1,African American
+1878,1,African American
+1879,0,Caucasian
+1880,0,Caucasian
+1881,2,Asian
+1882,1,African American
+1883,2,Asian
+1884,2,Asian
+1885,2,Asian
+1886,0,Caucasian
+1887,0,Caucasian
+1888,2,Asian
+1889,0,Caucasian
+1890,0,Caucasian
+1891,2,Asian
+1892,2,Asian
+1893,0,Caucasian
+1894,0,Caucasian
+1895,0,Caucasian
+1896,2,Asian
+1897,3,Other
+1898,0,Caucasian
+1899,0,Caucasian
+1900,2,Asian
+1901,0,Caucasian
+1902,1,African American
+1903,3,Other
+1904,0,Caucasian
+1905,1,African American
+1906,0,Caucasian
+1907,0,Caucasian
+1908,2,Asian
+1909,0,Caucasian
+1910,3,Other
+1911,1,African American
+1912,0,Caucasian
+1913,0,Caucasian
+1914,0,Caucasian
+1915,0,Caucasian
+1916,0,Caucasian
+1917,0,Caucasian
+1918,0,Caucasian
+1919,2,Asian
+1920,1,African American
+1921,2,Asian
+1922,0,Caucasian
+1923,0,Caucasian
+1924,1,African American
+1925,0,Caucasian
+1926,0,Caucasian
+1927,2,Asian
+1928,2,Asian
+1929,1,African American
+1930,0,Caucasian
+1931,2,Asian
+1932,1,African American
+1933,2,Asian
+1934,2,Asian
+1935,2,Asian
+1936,1,African American
+1937,0,Caucasian
+1938,1,African American
+1939,1,African American
+1940,2,Asian
+1941,0,Caucasian
+1942,0,Caucasian
+1943,2,Asian
+1944,2,Asian
+1945,3,Other
+1946,2,Asian
+1947,1,African American
+1948,1,African American
+1949,2,Asian
+1950,1,African American
+1951,1,African American
+1952,0,Caucasian
+1953,0,Caucasian
+1954,2,Asian
+1955,0,Caucasian
+1956,0,Caucasian
+1957,0,Caucasian
+1958,0,Caucasian
+1959,0,Caucasian
+1960,0,Caucasian
+1961,3,Other
+1962,1,African American
+1963,0,Caucasian
+1964,0,Caucasian
+1965,1,African American
+1966,0,Caucasian
+1967,2,Asian
+1968,1,African American
+1969,2,Asian
+1970,0,Caucasian
+1971,1,African American
+1972,0,Caucasian
+1973,3,Other
+1974,1,African American
+1975,0,Caucasian
+1976,0,Caucasian
+1977,0,Caucasian
+1978,1,African American
+1979,0,Caucasian
+1980,1,African American
+1981,0,Caucasian
+1982,1,African American
+1983,2,Asian
+1984,2,Asian
+1985,2,Asian
+1986,0,Caucasian
+1987,0,Caucasian
+1988,1,African American
+1989,0,Caucasian
+1990,0,Caucasian
+1991,0,Caucasian
+1992,0,Caucasian
+1993,0,Caucasian
+1994,2,Asian
+1995,0,Caucasian
+1996,1,African American
+1997,0,Caucasian
+1998,1,African American
+1999,0,Caucasian
+2000,2,Asian
+2001,2,Asian
+2002,0,Caucasian
+2003,3,Other
+2004,3,Other
+2005,2,Asian
+2006,2,Asian
+2007,0,Caucasian
+2008,1,African American
+2009,0,Caucasian
+2010,0,Caucasian
+2011,3,Other
+2012,0,Caucasian
+2013,2,Asian
+2014,2,Asian
+2015,2,Asian
+2016,3,Other
+2017,0,Caucasian
+2018,0,Caucasian
+2019,0,Caucasian
+2020,0,Caucasian
+2021,0,Caucasian
+2022,0,Caucasian
+2023,2,Asian
+2024,1,African American
+2025,0,Caucasian
+2026,1,African American
+2027,0,Caucasian
+2028,0,Caucasian
+2029,2,Asian
+2030,1,African American
+2031,2,Asian
+2032,0,Caucasian
+2033,2,Asian
+2034,1,African American
+2035,1,African American
+2036,1,African American
+2037,2,Asian
+2038,1,African American
+2039,1,African American
+2040,3,Other
+2041,2,Asian
+2042,0,Caucasian
+2043,2,Asian
+2044,0,Caucasian
+2045,0,Caucasian
+2046,1,African American
+2047,3,Other
+2048,3,Other
+2049,0,Caucasian
+2050,1,African American
+2051,0,Caucasian
+2052,3,Other
+2053,3,Other
+2054,1,African American
+2055,2,Asian
+2056,2,Asian
+2057,1,African American
+2058,0,Caucasian
+2059,0,Caucasian
+2060,1,African American
+2061,1,African American
+2062,0,Caucasian
+2063,3,Other
+2064,0,Caucasian
+2065,1,African American
+2066,1,African American
+2067,1,African American
+2068,1,African American
+2069,0,Caucasian
+2070,0,Caucasian
+2071,1,African American
+2072,1,African American
+2073,0,Caucasian
+2074,2,Asian
+2075,0,Caucasian
+2076,1,African American
+2077,2,Asian
+2078,0,Caucasian
+2079,0,Caucasian
+2080,2,Asian
+2081,1,African American
+2082,1,African American
+2083,2,Asian
+2084,2,Asian
+2085,3,Other
+2086,1,African American
+2087,0,Caucasian
+2088,0,Caucasian
+2089,0,Caucasian
+2090,1,African American
+2091,0,Caucasian
+2092,3,Other
+2093,1,African American
+2094,1,African American
+2095,0,Caucasian
+2096,0,Caucasian
+2097,0,Caucasian
+2098,0,Caucasian
+2099,0,Caucasian
+2100,1,African American
+2101,2,Asian
+2102,2,Asian
+2103,1,African American
+2104,0,Caucasian
+2105,2,Asian
+2106,2,Asian
+2107,0,Caucasian
+2108,2,Asian
+2109,0,Caucasian
+2110,2,Asian
+2111,3,Other
+2112,0,Caucasian
+2113,2,Asian
+2114,1,African American
+2115,3,Other
+2116,0,Caucasian
+2117,2,Asian
+2118,0,Caucasian
+2119,0,Caucasian
+2120,0,Caucasian
+2121,3,Other
+2122,2,Asian
+2123,2,Asian
+2124,3,Other
+2125,0,Caucasian
+2126,0,Caucasian
+2127,0,Caucasian
+2128,0,Caucasian
+2129,0,Caucasian
+2130,0,Caucasian
+2131,0,Caucasian
+2132,0,Caucasian
+2133,0,Caucasian
+2134,0,Caucasian
+2135,3,Other
+2136,2,Asian
+2137,3,Other
+2138,0,Caucasian
+2139,0,Caucasian
+2140,2,Asian
+2141,0,Caucasian
+2142,0,Caucasian
+2143,0,Caucasian
+2144,0,Caucasian
+2145,0,Caucasian
+2146,0,Caucasian
+2147,1,African American
+2148,0,Caucasian
+2149,0,Caucasian
+2150,2,Asian
+2151,0,Caucasian
+2152,0,Caucasian
+2153,2,Asian
+2154,0,Caucasian
+2155,0,Caucasian
+2156,0,Caucasian
+2157,0,Caucasian
+2158,1,African American
+2159,2,Asian
+2160,0,Caucasian
+2161,1,African American
+2162,1,African American
+2163,0,Caucasian
+2164,1,African American
+2165,0,Caucasian
+2166,0,Caucasian
+2167,0,Caucasian
+2168,0,Caucasian
+2169,0,Caucasian
+2170,2,Asian
+2171,0,Caucasian
+2172,0,Caucasian
+2173,0,Caucasian
+2174,2,Asian
+2175,1,African American
+2176,1,African American
+2177,2,Asian
+2178,2,Asian
+2179,0,Caucasian
+2180,1,African American
+2181,2,Asian
+2182,3,Other
+2183,2,Asian
+2184,0,Caucasian
+2185,0,Caucasian
+2186,0,Caucasian
+2187,2,Asian
+2188,0,Caucasian
+2189,0,Caucasian
+2190,2,Asian
+2191,0,Caucasian
+2192,2,Asian
+2193,0,Caucasian
+2194,0,Caucasian
+2195,0,Caucasian
+2196,2,Asian
+2197,0,Caucasian
+2198,0,Caucasian
+2199,3,Other
+2200,0,Caucasian
+2201,1,African American
+2202,1,African American
+2203,0,Caucasian
+2204,1,African American
+2205,0,Caucasian
+2206,1,African American
+2207,0,Caucasian
+2208,1,African American
+2209,0,Caucasian
+2210,1,African American
+2211,0,Caucasian
+2212,0,Caucasian
+2213,0,Caucasian
+2214,0,Caucasian
+2215,2,Asian
+2216,0,Caucasian
+2217,3,Other
+2218,3,Other
+2219,1,African American
+2220,0,Caucasian
+2221,0,Caucasian
+2222,2,Asian
+2223,0,Caucasian
+2224,0,Caucasian
+2225,1,African American
+2226,2,Asian
+2227,2,Asian
+2228,0,Caucasian
+2229,1,African American
+2230,0,Caucasian
+2231,0,Caucasian
+2232,2,Asian
+2233,0,Caucasian
+2234,0,Caucasian
+2235,0,Caucasian
+2236,2,Asian
+2237,2,Asian
+2238,1,African American
+2239,2,Asian
+2240,0,Caucasian
+2241,0,Caucasian
+2242,0,Caucasian
+2243,0,Caucasian
+2244,0,Caucasian
+2245,3,Other
+2246,0,Caucasian
+2247,0,Caucasian
+2248,0,Caucasian
+2249,0,Caucasian
+2250,3,Other
+2251,0,Caucasian
+2252,0,Caucasian
+2253,2,Asian
+2254,0,Caucasian
+2255,0,Caucasian
+2256,0,Caucasian
+2257,1,African American
+2258,3,Other
+2259,2,Asian
+2260,0,Caucasian
+2261,2,Asian
+2262,0,Caucasian
+2263,0,Caucasian
+2264,0,Caucasian
+2265,0,Caucasian
+2266,1,African American
+2267,1,African American
+2268,3,Other
+2269,1,African American
+2270,1,African American
+2271,0,Caucasian
+2272,0,Caucasian
+2273,1,African American
+2274,0,Caucasian
+2275,2,Asian
+2276,0,Caucasian
+2277,0,Caucasian
+2278,0,Caucasian
+2279,0,Caucasian
+2280,0,Caucasian
+2281,2,Asian
+2282,0,Caucasian
+2283,1,African American
+2284,0,Caucasian
+2285,0,Caucasian
+2286,0,Caucasian
+2287,2,Asian
+2288,0,Caucasian
+2289,2,Asian
+2290,0,Caucasian
+2291,2,Asian
+2292,0,Caucasian
+2293,1,African American
+2294,1,African American
+2295,3,Other
+2296,0,Caucasian
+2297,0,Caucasian
+2298,0,Caucasian
+2299,2,Asian
+2300,1,African American
+2301,2,Asian
+2302,0,Caucasian
+2303,0,Caucasian
+2304,0,Caucasian
+2305,3,Other
+2306,1,African American
+2307,3,Other
+2308,0,Caucasian
+2309,1,African American
+2310,1,African American
+2311,0,Caucasian
+2312,2,Asian
+2313,3,Other
+2314,2,Asian
+2315,2,Asian
+2316,0,Caucasian
+2317,0,Caucasian
+2318,3,Other
+2319,0,Caucasian
+2320,2,Asian
+2321,2,Asian
+2322,1,African American
+2323,3,Other
+2324,0,Caucasian
+2325,0,Caucasian
+2326,0,Caucasian
+2327,0,Caucasian
+2328,0,Caucasian
+2329,0,Caucasian
+2330,2,Asian
+2331,3,Other
+2332,0,Caucasian
+2333,0,Caucasian
+2334,3,Other
+2335,0,Caucasian
+2336,0,Caucasian
+2337,0,Caucasian
+2338,1,African American
+2339,0,Caucasian
+2340,3,Other
+2341,0,Caucasian
+2342,1,African American
+2343,0,Caucasian
+2344,0,Caucasian
+2345,1,African American
+2346,2,Asian
+2347,2,Asian
+2348,1,African American
+2349,3,Other
+2350,2,Asian
+2351,2,Asian
+2352,0,Caucasian
+2353,0,Caucasian
+2354,0,Caucasian
+2355,1,African American
+2356,0,Caucasian
+2357,0,Caucasian
+2358,2,Asian
+2359,2,Asian
+2360,3,Other
+2361,0,Caucasian
+2362,1,African American
+2363,0,Caucasian
+2364,0,Caucasian
+2365,0,Caucasian
+2366,0,Caucasian
+2367,0,Caucasian
+2368,2,Asian
+2369,0,Caucasian
+2370,2,Asian
+2371,1,African American
+2372,0,Caucasian
+2373,0,Caucasian
+2374,0,Caucasian
+2375,1,African American
+2376,0,Caucasian
+2377,0,Caucasian
+2378,0,Caucasian
+2379,1,African American
+2380,3,Other
+2381,0,Caucasian
+2382,2,Asian
+2383,1,African American
+2384,3,Other
+2385,2,Asian
+2386,1,African American
+2387,1,African American
+2388,2,Asian
+2389,0,Caucasian
+2390,0,Caucasian
+2391,0,Caucasian
+2392,2,Asian
+2393,2,Asian
+2394,0,Caucasian
+2395,1,African American
+2396,0,Caucasian
+2397,0,Caucasian
+2398,3,Other
+2399,0,Caucasian
+2400,0,Caucasian
+2401,1,African American
+2402,2,Asian
+2403,0,Caucasian
+2404,1,African American
+2405,1,African American
+2406,0,Caucasian
+2407,0,Caucasian
+2408,1,African American
+2409,0,Caucasian
+2410,3,Other
+2411,2,Asian
+2412,3,Other
+2413,0,Caucasian
+2414,3,Other
+2415,0,Caucasian
+2416,0,Caucasian
+2417,0,Caucasian
+2418,0,Caucasian
+2419,1,African American
+2420,0,Caucasian
+2421,0,Caucasian
+2422,1,African American
+2423,0,Caucasian
+2424,1,African American
+2425,0,Caucasian
+2426,2,Asian
+2427,2,Asian
+2428,0,Caucasian
+2429,0,Caucasian
+2430,0,Caucasian
+2431,2,Asian
+2432,0,Caucasian
+2433,0,Caucasian
+2434,0,Caucasian
+2435,0,Caucasian
+2436,0,Caucasian
+2437,2,Asian
+2438,0,Caucasian
+2439,0,Caucasian
+2440,2,Asian
+2441,2,Asian
+2442,0,Caucasian
+2443,0,Caucasian
+2444,0,Caucasian
+2445,3,Other
+2446,0,Caucasian
+2447,3,Other
+2448,1,African American
+2449,1,African American
+2450,0,Caucasian
+2451,0,Caucasian
+2452,0,Caucasian
+2453,0,Caucasian
+2454,1,African American
+2455,3,Other
+2456,1,African American
+2457,2,Asian
+2458,0,Caucasian
+2459,0,Caucasian
+2460,0,Caucasian
+2461,1,African American
+2462,3,Other
+2463,1,African American
+2464,0,Caucasian
+2465,0,Caucasian
+2466,1,African American
+2467,0,Caucasian
+2468,2,Asian
+2469,2,Asian
+2470,1,African American
+2471,0,Caucasian
+2472,0,Caucasian
+2473,0,Caucasian
+2474,0,Caucasian
+2475,0,Caucasian
+2476,1,African American
+2477,1,African American
+2478,0,Caucasian
+2479,0,Caucasian
+2480,0,Caucasian
+2481,0,Caucasian
+2482,2,Asian
+2483,0,Caucasian
+2484,0,Caucasian
+2485,0,Caucasian
+2486,2,Asian
+2487,1,African American
+2488,0,Caucasian
+2489,1,African American
+2490,2,Asian
+2491,3,Other
+2492,0,Caucasian
+2493,2,Asian
+2494,3,Other
+2495,3,Other
+2496,1,African American
+2497,1,African American
+2498,0,Caucasian
+2499,2,Asian
+2500,1,African American
+2501,1,African American
+2502,0,Caucasian
+2503,2,Asian
+2504,2,Asian
+2505,0,Caucasian
+2506,2,Asian
+2507,1,African American
+2508,2,Asian
+2509,0,Caucasian
+2510,0,Caucasian
+2511,3,Other
+2512,0,Caucasian
+2513,2,Asian
+2514,0,Caucasian
+2515,1,African American
+2516,0,Caucasian
+2517,1,African American
+2518,0,Caucasian
+2519,0,Caucasian
+2520,0,Caucasian
+2521,0,Caucasian
+2522,3,Other
+2523,3,Other
+2524,0,Caucasian
+2525,2,Asian
+2526,0,Caucasian
+2527,1,African American
+2528,2,Asian
+2529,3,Other
+2530,0,Caucasian
+2531,2,Asian
+2532,0,Caucasian
+2533,3,Other
+2534,0,Caucasian
+2535,1,African American
+2536,1,African American
+2537,1,African American
+2538,0,Caucasian
+2539,3,Other
+2540,0,Caucasian
+2541,1,African American
+2542,0,Caucasian
+2543,0,Caucasian
+2544,1,African American
+2545,0,Caucasian
+2546,0,Caucasian
+2547,0,Caucasian
+2548,0,Caucasian
+2549,2,Asian
+2550,2,Asian
+2551,0,Caucasian
+2552,0,Caucasian
+2553,0,Caucasian
+2554,0,Caucasian
+2555,1,African American
+2556,1,African American
+2557,0,Caucasian
+2558,0,Caucasian
+2559,0,Caucasian
+2560,2,Asian
+2561,3,Other
+2562,0,Caucasian
+2563,0,Caucasian
+2564,2,Asian
+2565,3,Other
+2566,0,Caucasian
+2567,0,Caucasian
+2568,0,Caucasian
+2569,1,African American
+2570,0,Caucasian
+2571,0,Caucasian
+2572,1,African American
+2573,0,Caucasian
+2574,2,Asian
+2575,0,Caucasian
+2576,0,Caucasian
+2577,1,African American
+2578,0,Caucasian
+2579,3,Other
+2580,1,African American
+2581,0,Caucasian
+2582,2,Asian
+2583,0,Caucasian
+2584,3,Other
+2585,0,Caucasian
+2586,1,African American
+2587,0,Caucasian
+2588,0,Caucasian
+2589,2,Asian
+2590,2,Asian
+2591,0,Caucasian
+2592,0,Caucasian
+2593,2,Asian
+2594,3,Other
+2595,0,Caucasian
+2596,0,Caucasian
+2597,0,Caucasian
+2598,2,Asian
+2599,0,Caucasian
+2600,0,Caucasian
+2601,2,Asian
+2602,0,Caucasian
+2603,0,Caucasian
+2604,0,Caucasian
+2605,0,Caucasian
+2606,0,Caucasian
+2607,1,African American
+2608,0,Caucasian
+2609,1,African American
+2610,2,Asian
+2611,2,Asian
+2612,0,Caucasian
+2613,0,Caucasian
+2614,0,Caucasian
+2615,0,Caucasian
+2616,0,Caucasian
+2617,1,African American
+2618,0,Caucasian
+2619,0,Caucasian
+2620,0,Caucasian
+2621,1,African American
+2622,0,Caucasian
+2623,1,African American
+2624,0,Caucasian
+2625,2,Asian
+2626,2,Asian
+2627,0,Caucasian
+2628,0,Caucasian
+2629,0,Caucasian
+2630,0,Caucasian
+2631,1,African American
+2632,2,Asian
+2633,1,African American
+2634,2,Asian
+2635,0,Caucasian
+2636,0,Caucasian
+2637,2,Asian
+2638,0,Caucasian
+2639,1,African American
+2640,0,Caucasian
+2641,0,Caucasian
+2642,3,Other
+2643,0,Caucasian
+2644,3,Other
+2645,3,Other
+2646,2,Asian
+2647,1,African American
+2648,1,African American
+2649,2,Asian
+2650,0,Caucasian
+2651,0,Caucasian
+2652,1,African American
+2653,0,Caucasian
+2654,0,Caucasian
+2655,0,Caucasian
+2656,1,African American
+2657,2,Asian
+2658,0,Caucasian
+2659,3,Other
+2660,1,African American
+2661,2,Asian
+2662,1,African American
+2663,2,Asian
+2664,0,Caucasian
+2665,2,Asian
+2666,0,Caucasian
+2667,2,Asian
+2668,3,Other
+2669,0,Caucasian
+2670,0,Caucasian
+2671,2,Asian
+2672,0,Caucasian
+2673,2,Asian
+2674,0,Caucasian
+2675,0,Caucasian
+2676,3,Other
+2677,1,African American
+2678,2,Asian
+2679,0,Caucasian
+2680,1,African American
+2681,1,African American
+2682,1,African American
+2683,1,African American
+2684,1,African American
+2685,0,Caucasian
+2686,0,Caucasian
+2687,2,Asian
+2688,0,Caucasian
+2689,1,African American
+2690,0,Caucasian
+2691,1,African American
+2692,2,Asian
+2693,0,Caucasian
+2694,0,Caucasian
+2695,0,Caucasian
+2696,1,African American
+2697,2,Asian
+2698,0,Caucasian
+2699,2,Asian
+2700,0,Caucasian
+2701,0,Caucasian
+2702,3,Other
+2703,0,Caucasian
+2704,0,Caucasian
+2705,0,Caucasian
+2706,0,Caucasian
+2707,0,Caucasian
+2708,0,Caucasian
+2709,1,African American
+2710,0,Caucasian
+2711,1,African American
+2712,0,Caucasian
+2713,0,Caucasian
+2714,1,African American
+2715,3,Other
+2716,0,Caucasian
+2717,2,Asian
+2718,1,African American
+2719,1,African American
+2720,1,African American
+2721,0,Caucasian
+2722,0,Caucasian
+2723,1,African American
+2724,0,Caucasian
+2725,3,Other
+2726,0,Caucasian
+2727,0,Caucasian
+2728,2,Asian
+2729,0,Caucasian
+2730,1,African American
+2731,1,African American
+2732,3,Other
+2733,2,Asian
+2734,1,African American
+2735,1,African American
+2736,3,Other
+2737,0,Caucasian
+2738,0,Caucasian
+2739,0,Caucasian
+2740,0,Caucasian
+2741,1,African American
+2742,1,African American
+2743,1,African American
+2744,0,Caucasian
+2745,2,Asian
+2746,0,Caucasian
+2747,1,African American
+2748,1,African American
+2749,0,Caucasian
+2750,0,Caucasian
+2751,0,Caucasian
+2752,2,Asian
+2753,3,Other
+2754,1,African American
+2755,0,Caucasian
+2756,0,Caucasian
+2757,2,Asian
+2758,2,Asian
+2759,0,Caucasian
+2760,0,Caucasian
+2761,2,Asian
+2762,0,Caucasian
+2763,0,Caucasian
+2764,0,Caucasian
+2765,1,African American
+2766,2,Asian
+2767,3,Other
+2768,1,African American
+2769,1,African American
+2770,0,Caucasian
+2771,1,African American
+2772,0,Caucasian
+2773,1,African American
+2774,0,Caucasian
+2775,0,Caucasian
+2776,0,Caucasian
+2777,0,Caucasian
+2778,0,Caucasian
+2779,0,Caucasian
+2780,3,Other
+2781,0,Caucasian
+2782,1,African American
+2783,2,Asian
+2784,3,Other
+2785,1,African American
+2786,2,Asian
+2787,0,Caucasian
+2788,0,Caucasian
+2789,0,Caucasian
+2790,1,African American
+2791,1,African American
+2792,0,Caucasian
+2793,0,Caucasian
+2794,1,African American
+2795,0,Caucasian
+2796,1,African American
+2797,1,African American
+2798,2,Asian
+2799,2,Asian
+2800,2,Asian
+2801,0,Caucasian
+2802,2,Asian
+2803,1,African American
+2804,0,Caucasian
+2805,0,Caucasian
+2806,0,Caucasian
+2807,0,Caucasian
+2808,1,African American
+2809,2,Asian
+2810,0,Caucasian
+2811,0,Caucasian
+2812,3,Other
+2813,0,Caucasian
+2814,0,Caucasian
+2815,1,African American
+2816,1,African American
+2817,0,Caucasian
+2818,0,Caucasian
+2819,0,Caucasian
+2820,1,African American
+2821,1,African American
+2822,0,Caucasian
+2823,1,African American
+2824,2,Asian
+2825,0,Caucasian
+2826,0,Caucasian
+2827,1,African American
+2828,0,Caucasian
+2829,0,Caucasian
+2830,1,African American
+2831,2,Asian
+2832,2,Asian
+2833,1,African American
+2834,2,Asian
+2835,0,Caucasian
+2836,1,African American
+2837,0,Caucasian
+2838,0,Caucasian
+2839,2,Asian
+2840,1,African American
+2841,0,Caucasian
+2842,3,Other
+2843,0,Caucasian
+2844,0,Caucasian
+2845,0,Caucasian
+2846,2,Asian
+2847,2,Asian
+2848,0,Caucasian
+2849,1,African American
+2850,0,Caucasian
+2851,2,Asian
+2852,0,Caucasian
+2853,0,Caucasian
+2854,3,Other
+2855,0,Caucasian
+2856,0,Caucasian
+2857,1,African American
+2858,3,Other
+2859,0,Caucasian
+2860,0,Caucasian
+2861,0,Caucasian
+2862,1,African American
+2863,0,Caucasian
+2864,1,African American
+2865,3,Other
+2866,0,Caucasian
+2867,0,Caucasian
+2868,0,Caucasian
+2869,0,Caucasian
+2870,2,Asian
+2871,0,Caucasian
+2872,0,Caucasian
+2873,1,African American
+2874,0,Caucasian
+2875,1,African American
+2876,0,Caucasian
+2877,2,Asian
+2878,3,Other
+2879,1,African American
+2880,3,Other
+2881,0,Caucasian
+2882,0,Caucasian
+2883,1,African American
+2884,1,African American
+2885,0,Caucasian
+2886,0,Caucasian
+2887,0,Caucasian
+2888,0,Caucasian
+2889,0,Caucasian
+2890,2,Asian
+2891,0,Caucasian
+2892,0,Caucasian
+2893,1,African American
+2894,1,African American
+2895,2,Asian
+2896,1,African American
+2897,0,Caucasian
+2898,2,Asian
+2899,1,African American
+2900,0,Caucasian
+2901,1,African American
+2902,3,Other
+2903,0,Caucasian
+2904,0,Caucasian
+2905,0,Caucasian
+2906,0,Caucasian
+2907,0,Caucasian
+2908,1,African American
+2909,0,Caucasian
+2910,3,Other
+2911,2,Asian
+2912,1,African American
+2913,2,Asian
+2914,0,Caucasian
+2915,0,Caucasian
+2916,1,African American
+2917,2,Asian
+2918,2,Asian
+2919,0,Caucasian
+2920,3,Other
+2921,0,Caucasian
+2922,2,Asian
+2923,3,Other
+2924,0,Caucasian
+2925,2,Asian
+2926,0,Caucasian
+2927,0,Caucasian
+2928,1,African American
+2929,1,African American
+2930,3,Other
+2931,1,African American
+2932,0,Caucasian
+2933,2,Asian
+2934,3,Other
+2935,0,Caucasian
+2936,3,Other
+2937,0,Caucasian
+2938,2,Asian
+2939,0,Caucasian
+2940,0,Caucasian
+2941,0,Caucasian
+2942,1,African American
+2943,0,Caucasian
+2944,0,Caucasian
+2945,1,African American
+2946,3,Other
+2947,0,Caucasian
+2948,0,Caucasian
+2949,0,Caucasian
+2950,0,Caucasian
+2951,2,Asian
+2952,2,Asian
+2953,1,African American
+2954,0,Caucasian
+2955,2,Asian
+2956,1,African American
+2957,2,Asian
+2958,1,African American
+2959,2,Asian
+2960,1,African American
+2961,0,Caucasian
+2962,3,Other
+2963,1,African American
+2964,1,African American
+2965,0,Caucasian
+2966,1,African American
+2967,1,African American
+2968,0,Caucasian
+2969,0,Caucasian
+2970,1,African American
+2971,2,Asian
+2972,1,African American
+2973,0,Caucasian
+2974,1,African American
+2975,0,Caucasian
+2976,0,Caucasian
+2977,0,Caucasian
+2978,0,Caucasian
+2979,0,Caucasian
+2980,0,Caucasian
+2981,0,Caucasian
+2982,0,Caucasian
+2983,1,African American
+2984,0,Caucasian
+2985,0,Caucasian
+2986,2,Asian
+2987,0,Caucasian
+2988,1,African American
+2989,0,Caucasian
+2990,0,Caucasian
+2991,1,African American
+2992,1,African American
+2993,2,Asian
+2994,1,African American
+2995,3,Other
+2996,0,Caucasian
+2997,0,Caucasian
+2998,0,Caucasian
+2999,0,Caucasian
+3000,1,African American
+3001,1,African American
+3002,0,Caucasian
+3003,3,Other
+3004,2,Asian
+3005,0,Caucasian
+3006,0,Caucasian
+3007,0,Caucasian
+3008,0,Caucasian
+3009,0,Caucasian
+3010,1,African American
+3011,0,Caucasian
+3012,0,Caucasian
+3013,3,Other
+3014,1,African American
+3015,3,Other
+3016,0,Caucasian
+3017,0,Caucasian
+3018,1,African American
+3019,0,Caucasian
+3020,0,Caucasian
+3021,1,African American
+3022,1,African American
+3023,0,Caucasian
+3024,0,Caucasian
+3025,0,Caucasian
+3026,0,Caucasian
+3027,0,Caucasian
+3028,0,Caucasian
+3029,0,Caucasian
+3030,3,Other
+3031,1,African American
+3032,2,Asian
+3033,0,Caucasian
+3034,0,Caucasian
+3035,0,Caucasian
+3036,0,Caucasian
+3037,0,Caucasian
+3038,2,Asian
+3039,1,African American
+3040,1,African American
+3041,0,Caucasian
+3042,3,Other
+3043,0,Caucasian
+3044,0,Caucasian
+3045,0,Caucasian
+3046,2,Asian
+3047,3,Other
+3048,0,Caucasian
+3049,2,Asian
+3050,2,Asian
+3051,0,Caucasian
+3052,0,Caucasian
+3053,0,Caucasian
+3054,3,Other
+3055,0,Caucasian
+3056,2,Asian
+3057,0,Caucasian
+3058,2,Asian
+3059,0,Caucasian
+3060,1,African American
+3061,2,Asian
+3062,2,Asian
+3063,2,Asian
+3064,0,Caucasian
+3065,1,African American
+3066,0,Caucasian
+3067,0,Caucasian
+3068,1,African American
+3069,0,Caucasian
+3070,1,African American
+3071,3,Other
+3072,0,Caucasian
+3073,1,African American
+3074,0,Caucasian
+3075,0,Caucasian
+3076,0,Caucasian
+3077,3,Other
+3078,2,Asian
+3079,3,Other
+3080,3,Other
+3081,0,Caucasian
+3082,0,Caucasian
+3083,1,African American
+3084,0,Caucasian
+3085,0,Caucasian
+3086,0,Caucasian
+3087,1,African American
+3088,1,African American
+3089,0,Caucasian
+3090,0,Caucasian
+3091,1,African American
+3092,1,African American
+3093,0,Caucasian
+3094,2,Asian
+3095,0,Caucasian
+3096,0,Caucasian
+3097,2,Asian
+3098,1,African American
+3099,0,Caucasian
+3100,1,African American
+3101,1,African American
+3102,2,Asian
+3103,2,Asian
+3104,1,African American
+3105,0,Caucasian
+3106,0,Caucasian
+3107,0,Caucasian
+3108,0,Caucasian
+3109,1,African American
+3110,1,African American
+3111,0,Caucasian
+3112,0,Caucasian
+3113,0,Caucasian
+3114,0,Caucasian
+3115,2,Asian
+3116,0,Caucasian
+3117,1,African American
+3118,3,Other
+3119,0,Caucasian
+3120,0,Caucasian
+3121,0,Caucasian
+3122,1,African American
+3123,1,African American
+3124,0,Caucasian
+3125,1,African American
+3126,2,Asian
+3127,0,Caucasian
+3128,0,Caucasian
+3129,2,Asian
+3130,1,African American
+3131,2,Asian
+3132,1,African American
+3133,2,Asian
+3134,0,Caucasian
+3135,2,Asian
+3136,3,Other
+3137,1,African American
+3138,0,Caucasian
+3139,0,Caucasian
+3140,0,Caucasian
+3141,0,Caucasian
+3142,0,Caucasian
+3143,1,African American
+3144,1,African American
+3145,0,Caucasian
+3146,1,African American
+3147,0,Caucasian
+3148,0,Caucasian
+3149,0,Caucasian
+3150,1,African American
+3151,0,Caucasian
+3152,0,Caucasian
+3153,0,Caucasian
+3154,2,Asian
+3155,0,Caucasian
+3156,1,African American
+3157,1,African American
+3158,2,Asian
+3159,3,Other
+3160,0,Caucasian
+3161,0,Caucasian
+3162,2,Asian
+3163,0,Caucasian
+3164,1,African American
+3165,1,African American
+3166,1,African American
+3167,3,Other
+3168,3,Other
+3169,2,Asian
+3170,0,Caucasian
+3171,2,Asian
+3172,0,Caucasian
+3173,0,Caucasian
+3174,2,Asian
+3175,0,Caucasian
+3176,0,Caucasian
+3177,0,Caucasian
+3178,2,Asian
+3179,1,African American
+3180,1,African American
+3181,0,Caucasian
+3182,2,Asian
+3183,2,Asian
+3184,0,Caucasian
+3185,0,Caucasian
+3186,0,Caucasian
+3187,3,Other
+3188,1,African American
+3189,3,Other
+3190,0,Caucasian
+3191,2,Asian
+3192,2,Asian
+3193,1,African American
+3194,3,Other
+3195,0,Caucasian
+3196,0,Caucasian
+3197,1,African American
+3198,2,Asian
+3199,1,African American
+3200,0,Caucasian
+3201,1,African American
+3202,0,Caucasian
+3203,0,Caucasian
+3204,1,African American
+3205,2,Asian
+3206,0,Caucasian
+3207,0,Caucasian
+3208,0,Caucasian
+3209,0,Caucasian
+3210,2,Asian
+3211,3,Other
+3212,0,Caucasian
+3213,2,Asian
+3214,2,Asian
+3215,2,Asian
+3216,0,Caucasian
+3217,3,Other
+3218,0,Caucasian
+3219,0,Caucasian
+3220,0,Caucasian
+3221,0,Caucasian
+3222,0,Caucasian
+3223,0,Caucasian
+3224,0,Caucasian
+3225,2,Asian
+3226,2,Asian
+3227,0,Caucasian
+3228,2,Asian
+3229,2,Asian
+3230,2,Asian
+3231,0,Caucasian
+3232,1,African American
+3233,3,Other
+3234,1,African American
+3235,0,Caucasian
+3236,1,African American
+3237,1,African American
+3238,1,African American
+3239,0,Caucasian
+3240,0,Caucasian
+3241,2,Asian
+3242,2,Asian
+3243,0,Caucasian
+3244,3,Other
+3245,0,Caucasian
+3246,1,African American
+3247,2,Asian
+3248,2,Asian
+3249,3,Other
+3250,0,Caucasian
+3251,2,Asian
+3252,0,Caucasian
+3253,2,Asian
+3254,2,Asian
+3255,1,African American
+3256,0,Caucasian
+3257,2,Asian
+3258,0,Caucasian
+3259,0,Caucasian
+3260,2,Asian
+3261,0,Caucasian
+3262,2,Asian
+3263,0,Caucasian
+3264,0,Caucasian
+3265,2,Asian
+3266,1,African American
+3267,0,Caucasian
+3268,2,Asian
+3269,1,African American
+3270,1,African American
+3271,0,Caucasian
+3272,2,Asian
+3273,2,Asian
+3274,2,Asian
+3275,0,Caucasian
+3276,2,Asian
+3277,1,African American
+3278,1,African American
+3279,0,Caucasian
+3280,2,Asian
+3281,2,Asian
+3282,0,Caucasian
+3283,0,Caucasian
+3284,2,Asian
+3285,0,Caucasian
+3286,3,Other
+3287,1,African American
+3288,1,African American
+3289,0,Caucasian
+3290,0,Caucasian
+3291,3,Other
+3292,0,Caucasian
+3293,2,Asian
+3294,0,Caucasian
+3295,0,Caucasian
+3296,0,Caucasian
+3297,1,African American
+3298,3,Other
+3299,0,Caucasian
+3300,0,Caucasian
+3301,0,Caucasian
+3302,1,African American
+3303,0,Caucasian
+3304,2,Asian
+3305,1,African American
+3306,1,African American
+3307,0,Caucasian
+3308,3,Other
+3309,0,Caucasian
+3310,0,Caucasian
+3311,1,African American
+3312,1,African American
+3313,0,Caucasian
+3314,0,Caucasian
+3315,2,Asian
+3316,0,Caucasian
+3317,2,Asian
+3318,1,African American
+3319,0,Caucasian
+3320,0,Caucasian
+3321,0,Caucasian
+3322,2,Asian
+3323,1,African American
+3324,0,Caucasian
+3325,1,African American
+3326,3,Other
+3327,0,Caucasian
+3328,3,Other
+3329,0,Caucasian
+3330,0,Caucasian
+3331,0,Caucasian
+3332,0,Caucasian
+3333,0,Caucasian
+3334,0,Caucasian
+3335,3,Other
+3336,2,Asian
+3337,2,Asian
+3338,0,Caucasian
+3339,0,Caucasian
+3340,0,Caucasian
+3341,2,Asian
+3342,3,Other
+3343,0,Caucasian
+3344,0,Caucasian
+3345,1,African American
+3346,0,Caucasian
+3347,0,Caucasian
+3348,1,African American
+3349,2,Asian
+3350,0,Caucasian
+3351,0,Caucasian
+3352,3,Other
+3353,0,Caucasian
+3354,0,Caucasian
+3355,0,Caucasian
+3356,0,Caucasian
+3357,0,Caucasian
+3358,2,Asian
+3359,0,Caucasian
+3360,0,Caucasian
+3361,1,African American
+3362,1,African American
+3363,2,Asian
+3364,2,Asian
+3365,0,Caucasian
+3366,2,Asian
+3367,0,Caucasian
+3368,3,Other
+3369,0,Caucasian
+3370,3,Other
+3371,2,Asian
+3372,0,Caucasian
+3373,1,African American
+3374,3,Other
+3375,2,Asian
+3376,0,Caucasian
+3377,2,Asian
+3378,0,Caucasian
+3379,0,Caucasian
+3380,0,Caucasian
+3381,0,Caucasian
+3382,2,Asian
+3383,0,Caucasian
+3384,2,Asian
+3385,0,Caucasian
+3386,0,Caucasian
+3387,0,Caucasian
+3388,0,Caucasian
+3389,0,Caucasian
+3390,0,Caucasian
+3391,1,African American
+3392,0,Caucasian

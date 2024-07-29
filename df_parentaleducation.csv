@@ -1,0 +1,2393 @@
+StudentID,ParentalEducation,Education_Group
+1001,2,Some College
+1002,1,High School
+1003,3,Bachelor's
+1004,3,Bachelor's
+1005,2,Some College
+1006,1,High School
+1007,1,High School
+1008,4,Higher
+1009,0,None
+1010,1,High School
+1011,1,High School
+1012,1,High School
+1013,1,High School
+1014,2,Some College
+1015,1,High School
+1016,2,Some College
+1017,1,High School
+1018,0,None
+1019,3,Bachelor's
+1020,1,High School
+1021,3,Bachelor's
+1022,2,Some College
+1023,0,None
+1024,4,Higher
+1025,1,High School
+1026,3,Bachelor's
+1027,1,High School
+1028,3,Bachelor's
+1029,0,None
+1030,2,Some College
+1031,2,Some College
+1032,3,Bachelor's
+1033,3,Bachelor's
+1034,3,Bachelor's
+1035,3,Bachelor's
+1036,1,High School
+1037,1,High School
+1038,1,High School
+1039,1,High School
+1040,1,High School
+1041,2,Some College
+1042,1,High School
+1043,2,Some College
+1044,1,High School
+1045,1,High School
+1046,2,Some College
+1047,2,Some College
+1048,2,Some College
+1049,2,Some College
+1050,1,High School
+1051,2,Some College
+1052,0,None
+1053,1,High School
+1054,2,Some College
+1055,0,None
+1056,1,High School
+1057,4,Higher
+1058,4,Higher
+1059,1,High School
+1060,0,None
+1061,1,High School
+1062,1,High School
+1063,3,Bachelor's
+1064,1,High School
+1065,2,Some College
+1066,1,High School
+1067,4,Higher
+1068,1,High School
+1069,2,Some College
+1070,1,High School
+1071,2,Some College
+1072,1,High School
+1073,1,High School
+1074,3,Bachelor's
+1075,3,Bachelor's
+1076,3,Bachelor's
+1077,2,Some College
+1078,3,Bachelor's
+1079,0,None
+1080,1,High School
+1081,1,High School
+1082,2,Some College
+1083,1,High School
+1084,1,High School
+1085,2,Some College
+1086,3,Bachelor's
+1087,1,High School
+1088,1,High School
+1089,1,High School
+1090,1,High School
+1091,1,High School
+1092,2,Some College
+1093,2,Some College
+1094,2,Some College
+1095,1,High School
+1096,3,Bachelor's
+1097,1,High School
+1098,2,Some College
+1099,3,Bachelor's
+1100,1,High School
+1101,1,High School
+1102,3,Bachelor's
+1103,1,High School
+1104,2,Some College
+1105,0,None
+1106,2,Some College
+1107,1,High School
+1108,0,None
+1109,2,Some College
+1110,1,High School
+1111,1,High School
+1112,0,None
+1113,1,High School
+1114,1,High School
+1115,0,None
+1116,3,Bachelor's
+1117,0,None
+1118,2,Some College
+1119,1,High School
+1120,1,High School
+1121,3,Bachelor's
+1122,1,High School
+1123,4,Higher
+1124,1,High School
+1125,2,Some College
+1126,2,Some College
+1127,3,Bachelor's
+1128,2,Some College
+1129,2,Some College
+1130,1,High School
+1131,1,High School
+1132,3,Bachelor's
+1133,1,High School
+1134,1,High School
+1135,2,Some College
+1136,1,High School
+1137,4,Higher
+1138,2,Some College
+1139,2,Some College
+1140,3,Bachelor's
+1141,0,None
+1142,1,High School
+1143,2,Some College
+1144,1,High School
+1145,2,Some College
+1146,3,Bachelor's
+1147,2,Some College
+1148,1,High School
+1149,4,Higher
+1150,2,Some College
+1151,2,Some College
+1152,1,High School
+1153,3,Bachelor's
+1154,2,Some College
+1155,2,Some College
+1156,3,Bachelor's
+1157,1,High School
+1158,2,Some College
+1159,3,Bachelor's
+1160,1,High School
+1161,2,Some College
+1162,3,Bachelor's
+1163,2,Some College
+1164,2,Some College
+1165,3,Bachelor's
+1166,3,Bachelor's
+1167,1,High School
+1168,0,None
+1169,2,Some College
+1170,2,Some College
+1171,2,Some College
+1172,2,Some College
+1173,1,High School
+1174,2,Some College
+1175,1,High School
+1176,2,Some College
+1177,2,Some College
+1178,1,High School
+1179,1,High School
+1180,2,Some College
+1181,2,Some College
+1182,1,High School
+1183,4,Higher
+1184,2,Some College
+1185,4,Higher
+1186,2,Some College
+1187,2,Some College
+1188,3,Bachelor's
+1189,2,Some College
+1190,2,Some College
+1191,1,High School
+1192,2,Some College
+1193,1,High School
+1194,1,High School
+1195,0,None
+1196,0,None
+1197,4,Higher
+1198,1,High School
+1199,2,Some College
+1200,3,Bachelor's
+1201,2,Some College
+1202,1,High School
+1203,2,Some College
+1204,2,Some College
+1205,2,Some College
+1206,2,Some College
+1207,4,Higher
+1208,2,Some College
+1209,1,High School
+1210,2,Some College
+1211,0,None
+1212,3,Bachelor's
+1213,1,High School
+1214,1,High School
+1215,3,Bachelor's
+1216,2,Some College
+1217,1,High School
+1218,2,Some College
+1219,3,Bachelor's
+1220,1,High School
+1221,3,Bachelor's
+1222,0,None
+1223,2,Some College
+1224,3,Bachelor's
+1225,1,High School
+1226,2,Some College
+1227,1,High School
+1228,2,Some College
+1229,2,Some College
+1230,2,Some College
+1231,1,High School
+1232,1,High School
+1233,0,None
+1234,1,High School
+1235,2,Some College
+1236,3,Bachelor's
+1237,2,Some College
+1238,2,Some College
+1239,4,Higher
+1240,2,Some College
+1241,3,Bachelor's
+1242,2,Some College
+1243,1,High School
+1244,0,None
+1245,2,Some College
+1246,1,High School
+1247,1,High School
+1248,2,Some College
+1249,2,Some College
+1250,2,Some College
+1251,1,High School
+1252,1,High School
+1253,2,Some College
+1254,4,Higher
+1255,2,Some College
+1256,3,Bachelor's
+1257,2,Some College
+1258,2,Some College
+1259,1,High School
+1260,2,Some College
+1261,2,Some College
+1262,2,Some College
+1263,2,Some College
+1264,2,Some College
+1265,1,High School
+1266,2,Some College
+1267,1,High School
+1268,3,Bachelor's
+1269,1,High School
+1270,0,None
+1271,2,Some College
+1272,2,Some College
+1273,2,Some College
+1274,1,High School
+1275,2,Some College
+1276,1,High School
+1277,3,Bachelor's
+1278,3,Bachelor's
+1279,2,Some College
+1280,1,High School
+1281,2,Some College
+1282,0,None
+1283,2,Some College
+1284,1,High School
+1285,3,Bachelor's
+1286,0,None
+1287,2,Some College
+1288,2,Some College
+1289,2,Some College
+1290,0,None
+1291,4,Higher
+1292,2,Some College
+1293,2,Some College
+1294,1,High School
+1295,2,Some College
+1296,2,Some College
+1297,0,None
+1298,1,High School
+1299,3,Bachelor's
+1300,1,High School
+1301,1,High School
+1302,2,Some College
+1303,2,Some College
+1304,0,None
+1305,2,Some College
+1306,1,High School
+1307,0,None
+1308,0,None
+1309,3,Bachelor's
+1310,1,High School
+1311,0,None
+1312,2,Some College
+1313,3,Bachelor's
+1314,1,High School
+1315,2,Some College
+1316,0,None
+1317,2,Some College
+1318,2,Some College
+1319,2,Some College
+1320,1,High School
+1321,1,High School
+1322,1,High School
+1323,1,High School
+1324,0,None
+1325,2,Some College
+1326,4,Higher
+1327,4,Higher
+1328,3,Bachelor's
+1329,2,Some College
+1330,2,Some College
+1331,1,High School
+1332,2,Some College
+1333,2,Some College
+1334,2,Some College
+1335,2,Some College
+1336,1,High School
+1337,1,High School
+1338,3,Bachelor's
+1339,0,None
+1340,2,Some College
+1341,3,Bachelor's
+1342,2,Some College
+1343,2,Some College
+1344,1,High School
+1345,1,High School
+1346,3,Bachelor's
+1347,2,Some College
+1348,2,Some College
+1349,0,None
+1350,0,None
+1351,4,Higher
+1352,1,High School
+1353,2,Some College
+1354,0,None
+1355,2,Some College
+1356,3,Bachelor's
+1357,2,Some College
+1358,1,High School
+1359,2,Some College
+1360,2,Some College
+1361,2,Some College
+1362,3,Bachelor's
+1363,2,Some College
+1364,3,Bachelor's
+1365,2,Some College
+1366,1,High School
+1367,1,High School
+1368,1,High School
+1369,3,Bachelor's
+1370,2,Some College
+1371,2,Some College
+1372,1,High School
+1373,1,High School
+1374,2,Some College
+1375,2,Some College
+1376,1,High School
+1377,2,Some College
+1378,0,None
+1379,1,High School
+1380,2,Some College
+1381,1,High School
+1382,4,Higher
+1383,1,High School
+1384,1,High School
+1385,1,High School
+1386,2,Some College
+1387,2,Some College
+1388,2,Some College
+1389,0,None
+1390,0,None
+1391,2,Some College
+1392,3,Bachelor's
+1393,3,Bachelor's
+1394,0,None
+1395,2,Some College
+1396,3,Bachelor's
+1397,1,High School
+1398,3,Bachelor's
+1399,1,High School
+1400,3,Bachelor's
+1401,2,Some College
+1402,3,Bachelor's
+1403,2,Some College
+1404,1,High School
+1405,3,Bachelor's
+1406,1,High School
+1407,1,High School
+1408,2,Some College
+1409,2,Some College
+1410,3,Bachelor's
+1411,1,High School
+1412,2,Some College
+1413,2,Some College
+1414,0,None
+1415,1,High School
+1416,1,High School
+1417,1,High School
+1418,4,Higher
+1419,2,Some College
+1420,2,Some College
+1421,4,Higher
+1422,1,High School
+1423,3,Bachelor's
+1424,2,Some College
+1425,3,Bachelor's
+1426,1,High School
+1427,3,Bachelor's
+1428,1,High School
+1429,1,High School
+1430,2,Some College
+1431,1,High School
+1432,2,Some College
+1433,2,Some College
+1434,2,Some College
+1435,1,High School
+1436,0,None
+1437,1,High School
+1438,2,Some College
+1439,1,High School
+1440,1,High School
+1441,1,High School
+1442,0,None
+1443,2,Some College
+1444,3,Bachelor's
+1445,1,High School
+1446,2,Some College
+1447,2,Some College
+1448,2,Some College
+1449,2,Some College
+1450,2,Some College
+1451,2,Some College
+1452,0,None
+1453,2,Some College
+1454,2,Some College
+1455,0,None
+1456,1,High School
+1457,4,Higher
+1458,2,Some College
+1459,2,Some College
+1460,3,Bachelor's
+1461,2,Some College
+1462,2,Some College
+1463,2,Some College
+1464,3,Bachelor's
+1465,2,Some College
+1466,2,Some College
+1467,1,High School
+1468,4,Higher
+1469,2,Some College
+1470,0,None
+1471,3,Bachelor's
+1472,2,Some College
+1473,0,None
+1474,2,Some College
+1475,2,Some College
+1476,3,Bachelor's
+1477,1,High School
+1478,3,Bachelor's
+1479,2,Some College
+1480,0,None
+1481,4,Higher
+1482,2,Some College
+1483,1,High School
+1484,2,Some College
+1485,3,Bachelor's
+1486,1,High School
+1487,1,High School
+1488,1,High School
+1489,1,High School
+1490,2,Some College
+1491,2,Some College
+1492,1,High School
+1493,1,High School
+1494,1,High School
+1495,3,Bachelor's
+1496,1,High School
+1497,4,Higher
+1498,2,Some College
+1499,1,High School
+1500,3,Bachelor's
+1501,2,Some College
+1502,2,Some College
+1503,4,Higher
+1504,0,None
+1505,0,None
+1506,2,Some College
+1507,1,High School
+1508,1,High School
+1509,0,None
+1510,0,None
+1511,2,Some College
+1512,1,High School
+1513,2,Some College
+1514,2,Some College
+1515,2,Some College
+1516,0,None
+1517,2,Some College
+1518,0,None
+1519,2,Some College
+1520,3,Bachelor's
+1521,2,Some College
+1522,2,Some College
+1523,2,Some College
+1524,1,High School
+1525,3,Bachelor's
+1526,3,Bachelor's
+1527,1,High School
+1528,2,Some College
+1529,3,Bachelor's
+1530,4,Higher
+1531,2,Some College
+1532,2,Some College
+1533,1,High School
+1534,4,Higher
+1535,1,High School
+1536,2,Some College
+1537,1,High School
+1538,1,High School
+1539,2,Some College
+1540,4,Higher
+1541,0,None
+1542,2,Some College
+1543,0,None
+1544,1,High School
+1545,2,Some College
+1546,2,Some College
+1547,1,High School
+1548,1,High School
+1549,0,None
+1550,1,High School
+1551,4,Higher
+1552,3,Bachelor's
+1553,1,High School
+1554,2,Some College
+1555,3,Bachelor's
+1556,0,None
+1557,3,Bachelor's
+1558,3,Bachelor's
+1559,0,None
+1560,1,High School
+1561,4,Higher
+1562,2,Some College
+1563,0,None
+1564,1,High School
+1565,2,Some College
+1566,2,Some College
+1567,2,Some College
+1568,4,Higher
+1569,1,High School
+1570,2,Some College
+1571,2,Some College
+1572,2,Some College
+1573,1,High School
+1574,4,Higher
+1575,3,Bachelor's
+1576,2,Some College
+1577,2,Some College
+1578,1,High School
+1579,2,Some College
+1580,2,Some College
+1581,2,Some College
+1582,4,Higher
+1583,2,Some College
+1584,1,High School
+1585,2,Some College
+1586,1,High School
+1587,1,High School
+1588,1,High School
+1589,2,Some College
+1590,2,Some College
+1591,2,Some College
+1592,2,Some College
+1593,2,Some College
+1594,1,High School
+1595,3,Bachelor's
+1596,1,High School
+1597,1,High School
+1598,2,Some College
+1599,1,High School
+1600,0,None
+1601,2,Some College
+1602,2,Some College
+1603,2,Some College
+1604,4,Higher
+1605,2,Some College
+1606,3,Bachelor's
+1607,1,High School
+1608,2,Some College
+1609,3,Bachelor's
+1610,2,Some College
+1611,2,Some College
+1612,1,High School
+1613,0,None
+1614,2,Some College
+1615,1,High School
+1616,3,Bachelor's
+1617,1,High School
+1618,4,Higher
+1619,4,Higher
+1620,1,High School
+1621,1,High School
+1622,3,Bachelor's
+1623,4,Higher
+1624,2,Some College
+1625,1,High School
+1626,2,Some College
+1627,2,Some College
+1628,1,High School
+1629,2,Some College
+1630,0,None
+1631,0,None
+1632,1,High School
+1633,1,High School
+1634,1,High School
+1635,2,Some College
+1636,1,High School
+1637,1,High School
+1638,1,High School
+1639,4,Higher
+1640,2,Some College
+1641,2,Some College
+1642,2,Some College
+1643,4,Higher
+1644,1,High School
+1645,2,Some College
+1646,2,Some College
+1647,2,Some College
+1648,0,None
+1649,2,Some College
+1650,0,None
+1651,2,Some College
+1652,2,Some College
+1653,1,High School
+1654,3,Bachelor's
+1655,0,None
+1656,3,Bachelor's
+1657,2,Some College
+1658,1,High School
+1659,1,High School
+1660,4,Higher
+1661,0,None
+1662,1,High School
+1663,1,High School
+1664,2,Some College
+1665,2,Some College
+1666,1,High School
+1667,1,High School
+1668,1,High School
+1669,1,High School
+1670,2,Some College
+1671,2,Some College
+1672,1,High School
+1673,1,High School
+1674,1,High School
+1675,4,Higher
+1676,4,Higher
+1677,3,Bachelor's
+1678,1,High School
+1679,0,None
+1680,1,High School
+1681,1,High School
+1682,2,Some College
+1683,2,Some College
+1684,3,Bachelor's
+1685,3,Bachelor's
+1686,1,High School
+1687,2,Some College
+1688,1,High School
+1689,0,None
+1690,2,Some College
+1691,0,None
+1692,2,Some College
+1693,1,High School
+1694,2,Some College
+1695,2,Some College
+1696,1,High School
+1697,3,Bachelor's
+1698,1,High School
+1699,2,Some College
+1700,2,Some College
+1701,2,Some College
+1702,4,Higher
+1703,1,High School
+1704,2,Some College
+1705,2,Some College
+1706,3,Bachelor's
+1707,1,High School
+1708,2,Some College
+1709,2,Some College
+1710,1,High School
+1711,2,Some College
+1712,1,High School
+1713,2,Some College
+1714,3,Bachelor's
+1715,2,Some College
+1716,2,Some College
+1717,2,Some College
+1718,0,None
+1719,1,High School
+1720,2,Some College
+1721,1,High School
+1722,1,High School
+1723,2,Some College
+1724,1,High School
+1725,1,High School
+1726,2,Some College
+1727,1,High School
+1728,3,Bachelor's
+1729,3,Bachelor's
+1730,2,Some College
+1731,1,High School
+1732,2,Some College
+1733,3,Bachelor's
+1734,2,Some College
+1735,1,High School
+1736,2,Some College
+1737,3,Bachelor's
+1738,2,Some College
+1739,2,Some College
+1740,2,Some College
+1741,2,Some College
+1742,0,None
+1743,2,Some College
+1744,0,None
+1745,2,Some College
+1746,1,High School
+1747,2,Some College
+1748,1,High School
+1749,2,Some College
+1750,2,Some College
+1751,1,High School
+1752,1,High School
+1753,1,High School
+1754,3,Bachelor's
+1755,2,Some College
+1756,2,Some College
+1757,1,High School
+1758,2,Some College
+1759,3,Bachelor's
+1760,3,Bachelor's
+1761,2,Some College
+1762,0,None
+1763,1,High School
+1764,0,None
+1765,1,High School
+1766,1,High School
+1767,1,High School
+1768,1,High School
+1769,3,Bachelor's
+1770,2,Some College
+1771,3,Bachelor's
+1772,2,Some College
+1773,1,High School
+1774,2,Some College
+1775,1,High School
+1776,2,Some College
+1777,1,High School
+1778,4,Higher
+1779,1,High School
+1780,1,High School
+1781,3,Bachelor's
+1782,0,None
+1783,2,Some College
+1784,2,Some College
+1785,3,Bachelor's
+1786,4,Higher
+1787,4,Higher
+1788,0,None
+1789,3,Bachelor's
+1790,2,Some College
+1791,2,Some College
+1792,1,High School
+1793,2,Some College
+1794,4,Higher
+1795,3,Bachelor's
+1796,2,Some College
+1797,0,None
+1798,1,High School
+1799,3,Bachelor's
+1800,2,Some College
+1801,2,Some College
+1802,0,None
+1803,2,Some College
+1804,2,Some College
+1805,3,Bachelor's
+1806,2,Some College
+1807,1,High School
+1808,2,Some College
+1809,0,None
+1810,4,Higher
+1811,1,High School
+1812,2,Some College
+1813,1,High School
+1814,2,Some College
+1815,2,Some College
+1816,2,Some College
+1817,1,High School
+1818,1,High School
+1819,1,High School
+1820,2,Some College
+1821,0,None
+1822,2,Some College
+1823,3,Bachelor's
+1824,3,Bachelor's
+1825,2,Some College
+1826,2,Some College
+1827,0,None
+1828,2,Some College
+1829,3,Bachelor's
+1830,1,High School
+1831,2,Some College
+1832,3,Bachelor's
+1833,3,Bachelor's
+1834,1,High School
+1835,2,Some College
+1836,1,High School
+1837,1,High School
+1838,3,Bachelor's
+1839,3,Bachelor's
+1840,2,Some College
+1841,0,None
+1842,3,Bachelor's
+1843,2,Some College
+1844,1,High School
+1845,2,Some College
+1846,0,None
+1847,2,Some College
+1848,2,Some College
+1849,1,High School
+1850,1,High School
+1851,1,High School
+1852,0,None
+1853,2,Some College
+1854,3,Bachelor's
+1855,0,None
+1856,0,None
+1857,2,Some College
+1858,3,Bachelor's
+1859,1,High School
+1860,1,High School
+1861,2,Some College
+1862,1,High School
+1863,0,None
+1864,2,Some College
+1865,2,Some College
+1866,2,Some College
+1867,2,Some College
+1868,2,Some College
+1869,1,High School
+1870,1,High School
+1871,1,High School
+1872,1,High School
+1873,2,Some College
+1874,3,Bachelor's
+1875,4,Higher
+1876,2,Some College
+1877,1,High School
+1878,1,High School
+1879,3,Bachelor's
+1880,2,Some College
+1881,2,Some College
+1882,2,Some College
+1883,2,Some College
+1884,3,Bachelor's
+1885,0,None
+1886,2,Some College
+1887,3,Bachelor's
+1888,1,High School
+1889,2,Some College
+1890,1,High School
+1891,4,Higher
+1892,0,None
+1893,2,Some College
+1894,1,High School
+1895,2,Some College
+1896,1,High School
+1897,1,High School
+1898,2,Some College
+1899,3,Bachelor's
+1900,1,High School
+1901,1,High School
+1902,2,Some College
+1903,2,Some College
+1904,3,Bachelor's
+1905,1,High School
+1906,2,Some College
+1907,1,High School
+1908,1,High School
+1909,2,Some College
+1910,2,Some College
+1911,2,Some College
+1912,1,High School
+1913,2,Some College
+1914,2,Some College
+1915,4,Higher
+1916,1,High School
+1917,1,High School
+1918,1,High School
+1919,2,Some College
+1920,1,High School
+1921,3,Bachelor's
+1922,1,High School
+1923,3,Bachelor's
+1924,1,High School
+1925,2,Some College
+1926,3,Bachelor's
+1927,1,High School
+1928,4,Higher
+1929,2,Some College
+1930,3,Bachelor's
+1931,2,Some College
+1932,1,High School
+1933,1,High School
+1934,1,High School
+1935,0,None
+1936,1,High School
+1937,1,High School
+1938,2,Some College
+1939,2,Some College
+1940,1,High School
+1941,1,High School
+1942,2,Some College
+1943,1,High School
+1944,0,None
+1945,1,High School
+1946,3,Bachelor's
+1947,3,Bachelor's
+1948,1,High School
+1949,2,Some College
+1950,2,Some College
+1951,2,Some College
+1952,2,Some College
+1953,2,Some College
+1954,1,High School
+1955,0,None
+1956,2,Some College
+1957,3,Bachelor's
+1958,2,Some College
+1959,3,Bachelor's
+1960,4,Higher
+1961,1,High School
+1962,2,Some College
+1963,2,Some College
+1964,4,Higher
+1965,4,Higher
+1966,2,Some College
+1967,1,High School
+1968,2,Some College
+1969,1,High School
+1970,2,Some College
+1971,3,Bachelor's
+1972,1,High School
+1973,2,Some College
+1974,2,Some College
+1975,2,Some College
+1976,1,High School
+1977,2,Some College
+1978,3,Bachelor's
+1979,3,Bachelor's
+1980,1,High School
+1981,3,Bachelor's
+1982,2,Some College
+1983,1,High School
+1984,0,None
+1985,1,High School
+1986,3,Bachelor's
+1987,2,Some College
+1988,2,Some College
+1989,1,High School
+1990,2,Some College
+1991,0,None
+1992,1,High School
+1993,2,Some College
+1994,1,High School
+1995,3,Bachelor's
+1996,1,High School
+1997,2,Some College
+1998,2,Some College
+1999,2,Some College
+2000,1,High School
+2001,0,None
+2002,3,Bachelor's
+2003,1,High School
+2004,3,Bachelor's
+2005,4,Higher
+2006,1,High School
+2007,1,High School
+2008,2,Some College
+2009,4,Higher
+2010,3,Bachelor's
+2011,2,Some College
+2012,2,Some College
+2013,1,High School
+2014,4,Higher
+2015,4,Higher
+2016,1,High School
+2017,1,High School
+2018,1,High School
+2019,1,High School
+2020,3,Bachelor's
+2021,1,High School
+2022,0,None
+2023,1,High School
+2024,4,Higher
+2025,2,Some College
+2026,2,Some College
+2027,1,High School
+2028,4,Higher
+2029,3,Bachelor's
+2030,1,High School
+2031,0,None
+2032,0,None
+2033,1,High School
+2034,2,Some College
+2035,3,Bachelor's
+2036,2,Some College
+2037,3,Bachelor's
+2038,2,Some College
+2039,2,Some College
+2040,2,Some College
+2041,1,High School
+2042,1,High School
+2043,2,Some College
+2044,0,None
+2045,1,High School
+2046,2,Some College
+2047,4,Higher
+2048,2,Some College
+2049,3,Bachelor's
+2050,2,Some College
+2051,2,Some College
+2052,2,Some College
+2053,3,Bachelor's
+2054,2,Some College
+2055,2,Some College
+2056,2,Some College
+2057,2,Some College
+2058,1,High School
+2059,0,None
+2060,0,None
+2061,3,Bachelor's
+2062,1,High School
+2063,1,High School
+2064,2,Some College
+2065,1,High School
+2066,2,Some College
+2067,1,High School
+2068,4,Higher
+2069,3,Bachelor's
+2070,3,Bachelor's
+2071,2,Some College
+2072,2,Some College
+2073,1,High School
+2074,0,None
+2075,0,None
+2076,2,Some College
+2077,2,Some College
+2078,2,Some College
+2079,0,None
+2080,2,Some College
+2081,2,Some College
+2082,2,Some College
+2083,2,Some College
+2084,1,High School
+2085,3,Bachelor's
+2086,2,Some College
+2087,1,High School
+2088,1,High School
+2089,2,Some College
+2090,3,Bachelor's
+2091,2,Some College
+2092,1,High School
+2093,3,Bachelor's
+2094,2,Some College
+2095,2,Some College
+2096,2,Some College
+2097,1,High School
+2098,2,Some College
+2099,1,High School
+2100,4,Higher
+2101,2,Some College
+2102,2,Some College
+2103,2,Some College
+2104,3,Bachelor's
+2105,3,Bachelor's
+2106,2,Some College
+2107,2,Some College
+2108,2,Some College
+2109,2,Some College
+2110,1,High School
+2111,2,Some College
+2112,1,High School
+2113,3,Bachelor's
+2114,1,High School
+2115,4,Higher
+2116,2,Some College
+2117,2,Some College
+2118,2,Some College
+2119,1,High School
+2120,1,High School
+2121,0,None
+2122,2,Some College
+2123,2,Some College
+2124,2,Some College
+2125,1,High School
+2126,1,High School
+2127,2,Some College
+2128,3,Bachelor's
+2129,2,Some College
+2130,2,Some College
+2131,2,Some College
+2132,0,None
+2133,4,Higher
+2134,2,Some College
+2135,1,High School
+2136,2,Some College
+2137,1,High School
+2138,4,Higher
+2139,1,High School
+2140,2,Some College
+2141,1,High School
+2142,2,Some College
+2143,2,Some College
+2144,2,Some College
+2145,2,Some College
+2146,3,Bachelor's
+2147,0,None
+2148,1,High School
+2149,1,High School
+2150,4,Higher
+2151,1,High School
+2152,2,Some College
+2153,2,Some College
+2154,1,High School
+2155,1,High School
+2156,1,High School
+2157,2,Some College
+2158,1,High School
+2159,0,None
+2160,3,Bachelor's
+2161,4,Higher
+2162,1,High School
+2163,1,High School
+2164,0,None
+2165,2,Some College
+2166,3,Bachelor's
+2167,1,High School
+2168,1,High School
+2169,2,Some College
+2170,2,Some College
+2171,0,None
+2172,2,Some College
+2173,1,High School
+2174,1,High School
+2175,2,Some College
+2176,3,Bachelor's
+2177,2,Some College
+2178,3,Bachelor's
+2179,2,Some College
+2180,2,Some College
+2181,2,Some College
+2182,3,Bachelor's
+2183,3,Bachelor's
+2184,0,None
+2185,3,Bachelor's
+2186,3,Bachelor's
+2187,2,Some College
+2188,1,High School
+2189,3,Bachelor's
+2190,3,Bachelor's
+2191,1,High School
+2192,4,Higher
+2193,0,None
+2194,1,High School
+2195,2,Some College
+2196,2,Some College
+2197,2,Some College
+2198,0,None
+2199,4,Higher
+2200,0,None
+2201,1,High School
+2202,0,None
+2203,2,Some College
+2204,3,Bachelor's
+2205,2,Some College
+2206,3,Bachelor's
+2207,0,None
+2208,2,Some College
+2209,2,Some College
+2210,2,Some College
+2211,0,None
+2212,2,Some College
+2213,2,Some College
+2214,2,Some College
+2215,2,Some College
+2216,1,High School
+2217,2,Some College
+2218,1,High School
+2219,3,Bachelor's
+2220,2,Some College
+2221,1,High School
+2222,4,Higher
+2223,2,Some College
+2224,0,None
+2225,2,Some College
+2226,1,High School
+2227,3,Bachelor's
+2228,3,Bachelor's
+2229,4,Higher
+2230,2,Some College
+2231,2,Some College
+2232,2,Some College
+2233,1,High School
+2234,2,Some College
+2235,2,Some College
+2236,0,None
+2237,2,Some College
+2238,3,Bachelor's
+2239,3,Bachelor's
+2240,0,None
+2241,0,None
+2242,1,High School
+2243,3,Bachelor's
+2244,1,High School
+2245,2,Some College
+2246,1,High School
+2247,2,Some College
+2248,1,High School
+2249,2,Some College
+2250,1,High School
+2251,2,Some College
+2252,1,High School
+2253,2,Some College
+2254,3,Bachelor's
+2255,1,High School
+2256,3,Bachelor's
+2257,2,Some College
+2258,1,High School
+2259,2,Some College
+2260,1,High School
+2261,2,Some College
+2262,2,Some College
+2263,1,High School
+2264,2,Some College
+2265,3,Bachelor's
+2266,3,Bachelor's
+2267,2,Some College
+2268,4,Higher
+2269,2,Some College
+2270,1,High School
+2271,3,Bachelor's
+2272,2,Some College
+2273,2,Some College
+2274,2,Some College
+2275,3,Bachelor's
+2276,3,Bachelor's
+2277,2,Some College
+2278,1,High School
+2279,2,Some College
+2280,2,Some College
+2281,1,High School
+2282,2,Some College
+2283,2,Some College
+2284,1,High School
+2285,1,High School
+2286,1,High School
+2287,3,Bachelor's
+2288,1,High School
+2289,1,High School
+2290,2,Some College
+2291,1,High School
+2292,0,None
+2293,1,High School
+2294,2,Some College
+2295,2,Some College
+2296,1,High School
+2297,2,Some College
+2298,4,Higher
+2299,1,High School
+2300,1,High School
+2301,1,High School
+2302,2,Some College
+2303,2,Some College
+2304,1,High School
+2305,2,Some College
+2306,0,None
+2307,2,Some College
+2308,2,Some College
+2309,1,High School
+2310,2,Some College
+2311,1,High School
+2312,2,Some College
+2313,0,None
+2314,3,Bachelor's
+2315,1,High School
+2316,3,Bachelor's
+2317,1,High School
+2318,2,Some College
+2319,1,High School
+2320,3,Bachelor's
+2321,1,High School
+2322,1,High School
+2323,2,Some College
+2324,0,None
+2325,1,High School
+2326,3,Bachelor's
+2327,4,Higher
+2328,1,High School
+2329,3,Bachelor's
+2330,2,Some College
+2331,1,High School
+2332,2,Some College
+2333,2,Some College
+2334,4,Higher
+2335,1,High School
+2336,2,Some College
+2337,0,None
+2338,1,High School
+2339,0,None
+2340,4,Higher
+2341,3,Bachelor's
+2342,2,Some College
+2343,2,Some College
+2344,1,High School
+2345,1,High School
+2346,1,High School
+2347,1,High School
+2348,2,Some College
+2349,2,Some College
+2350,0,None
+2351,0,None
+2352,1,High School
+2353,2,Some College
+2354,3,Bachelor's
+2355,2,Some College
+2356,3,Bachelor's
+2357,2,Some College
+2358,1,High School
+2359,1,High School
+2360,3,Bachelor's
+2361,2,Some College
+2362,1,High School
+2363,2,Some College
+2364,2,Some College
+2365,2,Some College
+2366,3,Bachelor's
+2367,2,Some College
+2368,2,Some College
+2369,0,None
+2370,0,None
+2371,1,High School
+2372,0,None
+2373,2,Some College
+2374,2,Some College
+2375,1,High School
+2376,3,Bachelor's
+2377,1,High School
+2378,1,High School
+2379,1,High School
+2380,1,High School
+2381,1,High School
+2382,2,Some College
+2383,2,Some College
+2384,4,Higher
+2385,0,None
+2386,1,High School
+2387,0,None
+2388,2,Some College
+2389,0,None
+2390,3,Bachelor's
+2391,2,Some College
+2392,2,Some College
+2393,2,Some College
+2394,1,High School
+2395,1,High School
+2396,1,High School
+2397,2,Some College
+2398,1,High School
+2399,1,High School
+2400,4,Higher
+2401,0,None
+2402,3,Bachelor's
+2403,2,Some College
+2404,1,High School
+2405,1,High School
+2406,1,High School
+2407,2,Some College
+2408,2,Some College
+2409,2,Some College
+2410,3,Bachelor's
+2411,2,Some College
+2412,1,High School
+2413,1,High School
+2414,3,Bachelor's
+2415,1,High School
+2416,0,None
+2417,2,Some College
+2418,2,Some College
+2419,3,Bachelor's
+2420,2,Some College
+2421,0,None
+2422,3,Bachelor's
+2423,1,High School
+2424,1,High School
+2425,2,Some College
+2426,0,None
+2427,2,Some College
+2428,1,High School
+2429,2,Some College
+2430,1,High School
+2431,2,Some College
+2432,3,Bachelor's
+2433,1,High School
+2434,1,High School
+2435,1,High School
+2436,1,High School
+2437,2,Some College
+2438,2,Some College
+2439,1,High School
+2440,1,High School
+2441,1,High School
+2442,2,Some College
+2443,1,High School
+2444,4,Higher
+2445,2,Some College
+2446,1,High School
+2447,2,Some College
+2448,3,Bachelor's
+2449,2,Some College
+2450,1,High School
+2451,1,High School
+2452,3,Bachelor's
+2453,2,Some College
+2454,2,Some College
+2455,3,Bachelor's
+2456,3,Bachelor's
+2457,3,Bachelor's
+2458,0,None
+2459,2,Some College
+2460,2,Some College
+2461,2,Some College
+2462,2,Some College
+2463,1,High School
+2464,2,Some College
+2465,2,Some College
+2466,0,None
+2467,2,Some College
+2468,1,High School
+2469,1,High School
+2470,0,None
+2471,2,Some College
+2472,2,Some College
+2473,2,Some College
+2474,2,Some College
+2475,3,Bachelor's
+2476,1,High School
+2477,1,High School
+2478,3,Bachelor's
+2479,1,High School
+2480,4,Higher
+2481,3,Bachelor's
+2482,2,Some College
+2483,4,Higher
+2484,0,None
+2485,1,High School
+2486,2,Some College
+2487,1,High School
+2488,3,Bachelor's
+2489,0,None
+2490,2,Some College
+2491,2,Some College
+2492,2,Some College
+2493,1,High School
+2494,1,High School
+2495,3,Bachelor's
+2496,1,High School
+2497,3,Bachelor's
+2498,2,Some College
+2499,2,Some College
+2500,2,Some College
+2501,1,High School
+2502,2,Some College
+2503,3,Bachelor's
+2504,2,Some College
+2505,4,Higher
+2506,2,Some College
+2507,1,High School
+2508,1,High School
+2509,4,Higher
+2510,1,High School
+2511,3,Bachelor's
+2512,3,Bachelor's
+2513,1,High School
+2514,0,None
+2515,2,Some College
+2516,1,High School
+2517,2,Some College
+2518,2,Some College
+2519,2,Some College
+2520,2,Some College
+2521,1,High School
+2522,2,Some College
+2523,1,High School
+2524,1,High School
+2525,2,Some College
+2526,3,Bachelor's
+2527,1,High School
+2528,2,Some College
+2529,2,Some College
+2530,1,High School
+2531,1,High School
+2532,3,Bachelor's
+2533,2,Some College
+2534,2,Some College
+2535,2,Some College
+2536,0,None
+2537,2,Some College
+2538,2,Some College
+2539,2,Some College
+2540,1,High School
+2541,0,None
+2542,1,High School
+2543,4,Higher
+2544,2,Some College
+2545,2,Some College
+2546,0,None
+2547,0,None
+2548,2,Some College
+2549,2,Some College
+2550,2,Some College
+2551,1,High School
+2552,2,Some College
+2553,1,High School
+2554,1,High School
+2555,2,Some College
+2556,1,High School
+2557,1,High School
+2558,2,Some College
+2559,2,Some College
+2560,3,Bachelor's
+2561,2,Some College
+2562,0,None
+2563,1,High School
+2564,4,Higher
+2565,2,Some College
+2566,2,Some College
+2567,0,None
+2568,2,Some College
+2569,0,None
+2570,2,Some College
+2571,3,Bachelor's
+2572,4,Higher
+2573,2,Some College
+2574,2,Some College
+2575,3,Bachelor's
+2576,2,Some College
+2577,0,None
+2578,2,Some College
+2579,1,High School
+2580,2,Some College
+2581,2,Some College
+2582,2,Some College
+2583,1,High School
+2584,1,High School
+2585,2,Some College
+2586,3,Bachelor's
+2587,2,Some College
+2588,1,High School
+2589,3,Bachelor's
+2590,3,Bachelor's
+2591,1,High School
+2592,0,None
+2593,2,Some College
+2594,3,Bachelor's
+2595,4,Higher
+2596,3,Bachelor's
+2597,2,Some College
+2598,2,Some College
+2599,0,None
+2600,1,High School
+2601,2,Some College
+2602,2,Some College
+2603,2,Some College
+2604,2,Some College
+2605,1,High School
+2606,2,Some College
+2607,0,None
+2608,2,Some College
+2609,2,Some College
+2610,2,Some College
+2611,4,Higher
+2612,1,High School
+2613,2,Some College
+2614,1,High School
+2615,2,Some College
+2616,3,Bachelor's
+2617,2,Some College
+2618,3,Bachelor's
+2619,1,High School
+2620,3,Bachelor's
+2621,0,None
+2622,3,Bachelor's
+2623,1,High School
+2624,1,High School
+2625,2,Some College
+2626,3,Bachelor's
+2627,0,None
+2628,1,High School
+2629,3,Bachelor's
+2630,1,High School
+2631,1,High School
+2632,2,Some College
+2633,1,High School
+2634,3,Bachelor's
+2635,2,Some College
+2636,2,Some College
+2637,4,Higher
+2638,2,Some College
+2639,0,None
+2640,1,High School
+2641,2,Some College
+2642,1,High School
+2643,3,Bachelor's
+2644,2,Some College
+2645,1,High School
+2646,2,Some College
+2647,2,Some College
+2648,3,Bachelor's
+2649,3,Bachelor's
+2650,2,Some College
+2651,2,Some College
+2652,2,Some College
+2653,2,Some College
+2654,1,High School
+2655,1,High School
+2656,2,Some College
+2657,1,High School
+2658,0,None
+2659,2,Some College
+2660,0,None
+2661,2,Some College
+2662,2,Some College
+2663,4,Higher
+2664,2,Some College
+2665,0,None
+2666,2,Some College
+2667,3,Bachelor's
+2668,4,Higher
+2669,2,Some College
+2670,1,High School
+2671,3,Bachelor's
+2672,1,High School
+2673,2,Some College
+2674,2,Some College
+2675,0,None
+2676,1,High School
+2677,1,High School
+2678,2,Some College
+2679,3,Bachelor's
+2680,1,High School
+2681,3,Bachelor's
+2682,0,None
+2683,2,Some College
+2684,0,None
+2685,3,Bachelor's
+2686,2,Some College
+2687,2,Some College
+2688,3,Bachelor's
+2689,2,Some College
+2690,4,Higher
+2691,2,Some College
+2692,3,Bachelor's
+2693,2,Some College
+2694,1,High School
+2695,2,Some College
+2696,1,High School
+2697,2,Some College
+2698,2,Some College
+2699,2,Some College
+2700,0,None
+2701,1,High School
+2702,2,Some College
+2703,4,Higher
+2704,1,High School
+2705,2,Some College
+2706,2,Some College
+2707,2,Some College
+2708,1,High School
+2709,2,Some College
+2710,1,High School
+2711,4,Higher
+2712,1,High School
+2713,1,High School
+2714,0,None
+2715,1,High School
+2716,2,Some College
+2717,1,High School
+2718,0,None
+2719,2,Some College
+2720,0,None
+2721,0,None
+2722,3,Bachelor's
+2723,2,Some College
+2724,3,Bachelor's
+2725,3,Bachelor's
+2726,2,Some College
+2727,0,None
+2728,2,Some College
+2729,3,Bachelor's
+2730,2,Some College
+2731,2,Some College
+2732,1,High School
+2733,3,Bachelor's
+2734,2,Some College
+2735,4,Higher
+2736,1,High School
+2737,1,High School
+2738,1,High School
+2739,2,Some College
+2740,1,High School
+2741,0,None
+2742,4,Higher
+2743,0,None
+2744,3,Bachelor's
+2745,1,High School
+2746,3,Bachelor's
+2747,2,Some College
+2748,3,Bachelor's
+2749,3,Bachelor's
+2750,0,None
+2751,0,None
+2752,1,High School
+2753,2,Some College
+2754,3,Bachelor's
+2755,2,Some College
+2756,2,Some College
+2757,1,High School
+2758,3,Bachelor's
+2759,4,Higher
+2760,1,High School
+2761,2,Some College
+2762,0,None
+2763,2,Some College
+2764,2,Some College
+2765,1,High School
+2766,2,Some College
+2767,1,High School
+2768,2,Some College
+2769,2,Some College
+2770,0,None
+2771,2,Some College
+2772,2,Some College
+2773,1,High School
+2774,0,None
+2775,2,Some College
+2776,4,Higher
+2777,1,High School
+2778,1,High School
+2779,1,High School
+2780,2,Some College
+2781,1,High School
+2782,1,High School
+2783,2,Some College
+2784,2,Some College
+2785,1,High School
+2786,2,Some College
+2787,2,Some College
+2788,0,None
+2789,0,None
+2790,3,Bachelor's
+2791,0,None
+2792,2,Some College
+2793,3,Bachelor's
+2794,1,High School
+2795,1,High School
+2796,2,Some College
+2797,3,Bachelor's
+2798,3,Bachelor's
+2799,2,Some College
+2800,0,None
+2801,2,Some College
+2802,2,Some College
+2803,2,Some College
+2804,0,None
+2805,1,High School
+2806,2,Some College
+2807,2,Some College
+2808,1,High School
+2809,1,High School
+2810,3,Bachelor's
+2811,2,Some College
+2812,1,High School
+2813,1,High School
+2814,1,High School
+2815,3,Bachelor's
+2816,2,Some College
+2817,2,Some College
+2818,2,Some College
+2819,1,High School
+2820,3,Bachelor's
+2821,2,Some College
+2822,1,High School
+2823,1,High School
+2824,2,Some College
+2825,3,Bachelor's
+2826,1,High School
+2827,3,Bachelor's
+2828,2,Some College
+2829,1,High School
+2830,0,None
+2831,1,High School
+2832,2,Some College
+2833,1,High School
+2834,1,High School
+2835,2,Some College
+2836,2,Some College
+2837,1,High School
+2838,2,Some College
+2839,2,Some College
+2840,2,Some College
+2841,3,Bachelor's
+2842,1,High School
+2843,3,Bachelor's
+2844,2,Some College
+2845,2,Some College
+2846,2,Some College
+2847,2,Some College
+2848,1,High School
+2849,2,Some College
+2850,2,Some College
+2851,2,Some College
+2852,1,High School
+2853,3,Bachelor's
+2854,2,Some College
+2855,0,None
+2856,2,Some College
+2857,2,Some College
+2858,2,Some College
+2859,2,Some College
+2860,3,Bachelor's
+2861,1,High School
+2862,2,Some College
+2863,3,Bachelor's
+2864,3,Bachelor's
+2865,2,Some College
+2866,3,Bachelor's
+2867,0,None
+2868,3,Bachelor's
+2869,1,High School
+2870,1,High School
+2871,1,High School
+2872,2,Some College
+2873,1,High School
+2874,1,High School
+2875,1,High School
+2876,1,High School
+2877,2,Some College
+2878,2,Some College
+2879,1,High School
+2880,2,Some College
+2881,3,Bachelor's
+2882,2,Some College
+2883,1,High School
+2884,2,Some College
+2885,1,High School
+2886,1,High School
+2887,1,High School
+2888,3,Bachelor's
+2889,1,High School
+2890,0,None
+2891,1,High School
+2892,3,Bachelor's
+2893,2,Some College
+2894,1,High School
+2895,2,Some College
+2896,2,Some College
+2897,2,Some College
+2898,1,High School
+2899,3,Bachelor's
+2900,1,High School
+2901,2,Some College
+2902,0,None
+2903,1,High School
+2904,1,High School
+2905,2,Some College
+2906,0,None
+2907,2,Some College
+2908,1,High School
+2909,2,Some College
+2910,3,Bachelor's
+2911,2,Some College
+2912,2,Some College
+2913,2,Some College
+2914,1,High School
+2915,3,Bachelor's
+2916,1,High School
+2917,2,Some College
+2918,2,Some College
+2919,1,High School
+2920,1,High School
+2921,2,Some College
+2922,3,Bachelor's
+2923,3,Bachelor's
+2924,2,Some College
+2925,2,Some College
+2926,3,Bachelor's
+2927,0,None
+2928,1,High School
+2929,2,Some College
+2930,3,Bachelor's
+2931,3,Bachelor's
+2932,2,Some College
+2933,0,None
+2934,2,Some College
+2935,1,High School
+2936,1,High School
+2937,2,Some College
+2938,0,None
+2939,3,Bachelor's
+2940,2,Some College
+2941,2,Some College
+2942,0,None
+2943,1,High School
+2944,0,None
+2945,4,Higher
+2946,3,Bachelor's
+2947,2,Some College
+2948,1,High School
+2949,3,Bachelor's
+2950,1,High School
+2951,1,High School
+2952,2,Some College
+2953,3,Bachelor's
+2954,0,None
+2955,1,High School
+2956,3,Bachelor's
+2957,1,High School
+2958,1,High School
+2959,2,Some College
+2960,3,Bachelor's
+2961,2,Some College
+2962,4,Higher
+2963,2,Some College
+2964,0,None
+2965,4,Higher
+2966,2,Some College
+2967,1,High School
+2968,2,Some College
+2969,1,High School
+2970,0,None
+2971,0,None
+2972,2,Some College
+2973,3,Bachelor's
+2974,2,Some College
+2975,4,Higher
+2976,1,High School
+2977,1,High School
+2978,1,High School
+2979,1,High School
+2980,1,High School
+2981,2,Some College
+2982,3,Bachelor's
+2983,4,Higher
+2984,1,High School
+2985,3,Bachelor's
+2986,1,High School
+2987,1,High School
+2988,3,Bachelor's
+2989,2,Some College
+2990,1,High School
+2991,2,Some College
+2992,1,High School
+2993,2,Some College
+2994,2,Some College
+2995,4,Higher
+2996,0,None
+2997,1,High School
+2998,2,Some College
+2999,2,Some College
+3000,1,High School
+3001,2,Some College
+3002,3,Bachelor's
+3003,3,Bachelor's
+3004,3,Bachelor's
+3005,3,Bachelor's
+3006,2,Some College
+3007,3,Bachelor's
+3008,1,High School
+3009,1,High School
+3010,1,High School
+3011,2,Some College
+3012,1,High School
+3013,4,Higher
+3014,1,High School
+3015,0,None
+3016,2,Some College
+3017,0,None
+3018,1,High School
+3019,1,High School
+3020,2,Some College
+3021,2,Some College
+3022,2,Some College
+3023,2,Some College
+3024,2,Some College
+3025,1,High School
+3026,1,High School
+3027,2,Some College
+3028,0,None
+3029,0,None
+3030,2,Some College
+3031,2,Some College
+3032,1,High School
+3033,1,High School
+3034,3,Bachelor's
+3035,3,Bachelor's
+3036,2,Some College
+3037,2,Some College
+3038,2,Some College
+3039,4,Higher
+3040,4,Higher
+3041,1,High School
+3042,3,Bachelor's
+3043,1,High School
+3044,1,High School
+3045,2,Some College
+3046,2,Some College
+3047,3,Bachelor's
+3048,0,None
+3049,2,Some College
+3050,3,Bachelor's
+3051,3,Bachelor's
+3052,1,High School
+3053,1,High School
+3054,2,Some College
+3055,1,High School
+3056,4,Higher
+3057,3,Bachelor's
+3058,1,High School
+3059,1,High School
+3060,0,None
+3061,3,Bachelor's
+3062,1,High School
+3063,2,Some College
+3064,2,Some College
+3065,2,Some College
+3066,0,None
+3067,1,High School
+3068,3,Bachelor's
+3069,3,Bachelor's
+3070,2,Some College
+3071,0,None
+3072,1,High School
+3073,2,Some College
+3074,1,High School
+3075,3,Bachelor's
+3076,2,Some College
+3077,0,None
+3078,3,Bachelor's
+3079,4,Higher
+3080,0,None
+3081,2,Some College
+3082,1,High School
+3083,1,High School
+3084,1,High School
+3085,2,Some College
+3086,4,Higher
+3087,2,Some College
+3088,0,None
+3089,2,Some College
+3090,1,High School
+3091,3,Bachelor's
+3092,2,Some College
+3093,1,High School
+3094,1,High School
+3095,2,Some College
+3096,1,High School
+3097,2,Some College
+3098,1,High School
+3099,1,High School
+3100,2,Some College
+3101,3,Bachelor's
+3102,3,Bachelor's
+3103,1,High School
+3104,1,High School
+3105,1,High School
+3106,2,Some College
+3107,2,Some College
+3108,3,Bachelor's
+3109,3,Bachelor's
+3110,1,High School
+3111,2,Some College
+3112,3,Bachelor's
+3113,3,Bachelor's
+3114,0,None
+3115,1,High School
+3116,2,Some College
+3117,1,High School
+3118,1,High School
+3119,0,None
+3120,2,Some College
+3121,1,High School
+3122,0,None
+3123,1,High School
+3124,3,Bachelor's
+3125,3,Bachelor's
+3126,2,Some College
+3127,2,Some College
+3128,4,Higher
+3129,1,High School
+3130,1,High School
+3131,1,High School
+3132,1,High School
+3133,1,High School
+3134,3,Bachelor's
+3135,2,Some College
+3136,2,Some College
+3137,3,Bachelor's
+3138,0,None
+3139,1,High School
+3140,2,Some College
+3141,2,Some College
+3142,0,None
+3143,2,Some College
+3144,2,Some College
+3145,2,Some College
+3146,2,Some College
+3147,1,High School
+3148,0,None
+3149,2,Some College
+3150,1,High School
+3151,3,Bachelor's
+3152,2,Some College
+3153,1,High School
+3154,2,Some College
+3155,2,Some College
+3156,1,High School
+3157,3,Bachelor's
+3158,3,Bachelor's
+3159,2,Some College
+3160,0,None
+3161,2,Some College
+3162,2,Some College
+3163,1,High School
+3164,1,High School
+3165,3,Bachelor's
+3166,0,None
+3167,2,Some College
+3168,2,Some College
+3169,2,Some College
+3170,0,None
+3171,3,Bachelor's
+3172,1,High School
+3173,2,Some College
+3174,2,Some College
+3175,2,Some College
+3176,4,Higher
+3177,2,Some College
+3178,1,High School
+3179,4,Higher
+3180,2,Some College
+3181,1,High School
+3182,1,High School
+3183,3,Bachelor's
+3184,1,High School
+3185,2,Some College
+3186,2,Some College
+3187,1,High School
+3188,2,Some College
+3189,0,None
+3190,2,Some College
+3191,2,Some College
+3192,2,Some College
+3193,2,Some College
+3194,3,Bachelor's
+3195,2,Some College
+3196,0,None
+3197,1,High School
+3198,2,Some College
+3199,3,Bachelor's
+3200,3,Bachelor's
+3201,3,Bachelor's
+3202,1,High School
+3203,2,Some College
+3204,2,Some College
+3205,1,High School
+3206,0,None
+3207,3,Bachelor's
+3208,1,High School
+3209,1,High School
+3210,0,None
+3211,3,Bachelor's
+3212,2,Some College
+3213,2,Some College
+3214,3,Bachelor's
+3215,1,High School
+3216,2,Some College
+3217,0,None
+3218,1,High School
+3219,3,Bachelor's
+3220,2,Some College
+3221,1,High School
+3222,1,High School
+3223,2,Some College
+3224,0,None
+3225,1,High School
+3226,1,High School
+3227,1,High School
+3228,3,Bachelor's
+3229,1,High School
+3230,1,High School
+3231,2,Some College
+3232,3,Bachelor's
+3233,1,High School
+3234,0,None
+3235,1,High School
+3236,2,Some College
+3237,2,Some College
+3238,3,Bachelor's
+3239,4,Higher
+3240,2,Some College
+3241,2,Some College
+3242,2,Some College
+3243,0,None
+3244,4,Higher
+3245,1,High School
+3246,1,High School
+3247,2,Some College
+3248,1,High School
+3249,2,Some College
+3250,2,Some College
+3251,2,Some College
+3252,3,Bachelor's
+3253,1,High School
+3254,2,Some College
+3255,2,Some College
+3256,2,Some College
+3257,2,Some College
+3258,1,High School
+3259,2,Some College
+3260,1,High School
+3261,3,Bachelor's
+3262,1,High School
+3263,2,Some College
+3264,0,None
+3265,1,High School
+3266,2,Some College
+3267,3,Bachelor's
+3268,2,Some College
+3269,3,Bachelor's
+3270,2,Some College
+3271,2,Some College
+3272,1,High School
+3273,3,Bachelor's
+3274,1,High School
+3275,3,Bachelor's
+3276,3,Bachelor's
+3277,3,Bachelor's
+3278,2,Some College
+3279,2,Some College
+3280,2,Some College
+3281,1,High School
+3282,2,Some College
+3283,0,None
+3284,2,Some College
+3285,1,High School
+3286,1,High School
+3287,1,High School
+3288,2,Some College
+3289,2,Some College
+3290,0,None
+3291,2,Some College
+3292,1,High School
+3293,2,Some College
+3294,2,Some College
+3295,2,Some College
+3296,2,Some College
+3297,1,High School
+3298,2,Some College
+3299,2,Some College
+3300,2,Some College
+3301,2,Some College
+3302,0,None
+3303,2,Some College
+3304,2,Some College
+3305,1,High School
+3306,0,None
+3307,0,None
+3308,3,Bachelor's
+3309,2,Some College
+3310,1,High School
+3311,1,High School
+3312,2,Some College
+3313,3,Bachelor's
+3314,0,None
+3315,1,High School
+3316,3,Bachelor's
+3317,0,None
+3318,1,High School
+3319,4,Higher
+3320,2,Some College
+3321,1,High School
+3322,0,None
+3323,0,None
+3324,1,High School
+3325,3,Bachelor's
+3326,2,Some College
+3327,2,Some College
+3328,3,Bachelor's
+3329,2,Some College
+3330,1,High School
+3331,2,Some College
+3332,3,Bachelor's
+3333,3,Bachelor's
+3334,0,None
+3335,2,Some College
+3336,2,Some College
+3337,3,Bachelor's
+3338,1,High School
+3339,2,Some College
+3340,3,Bachelor's
+3341,2,Some College
+3342,2,Some College
+3343,0,None
+3344,1,High School
+3345,1,High School
+3346,3,Bachelor's
+3347,1,High School
+3348,2,Some College
+3349,2,Some College
+3350,1,High School
+3351,2,Some College
+3352,2,Some College
+3353,3,Bachelor's
+3354,2,Some College
+3355,2,Some College
+3356,1,High School
+3357,3,Bachelor's
+3358,1,High School
+3359,2,Some College
+3360,1,High School
+3361,3,Bachelor's
+3362,2,Some College
+3363,2,Some College
+3364,1,High School
+3365,2,Some College
+3366,2,Some College
+3367,2,Some College
+3368,1,High School
+3369,4,Higher
+3370,3,Bachelor's
+3371,1,High School
+3372,3,Bachelor's
+3373,2,Some College
+3374,2,Some College
+3375,1,High School
+3376,2,Some College
+3377,2,Some College
+3378,2,Some College
+3379,2,Some College
+3380,2,Some College
+3381,2,Some College
+3382,0,None
+3383,3,Bachelor's
+3384,2,Some College
+3385,1,High School
+3386,1,High School
+3387,2,Some College
+3388,3,Bachelor's
+3389,1,High School
+3390,2,Some College
+3391,0,None
+3392,2,Some College
